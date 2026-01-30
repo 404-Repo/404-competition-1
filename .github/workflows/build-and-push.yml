@@ -149,8 +149,8 @@ jobs:
           CONTEXT: ${{ env.CONTEXT }}
           MINER_HOTKEY: ${{ env.MINER_HOTKEY_LOWER }}
           DOCKERFILE: ${{ env.DOCKERFILE }}
-          CACHE_FROM: type=registry,ref=europe-docker.pkg.dev/gen-456515/dockers-cache/shared
-          CACHE_TO: ${{ strategy.job-index == 0 && 'type=registry,ref=europe-docker.pkg.dev/gen-456515/dockers-cache/shared,mode=max,compression=zstd' || '' }}
+          CACHE_FROM: type=registry,ref=europe-west3-docker.pkg.dev/gen-456515/eu-dockers-cache/shared
+          CACHE_TO: ${{ strategy.job-index == 0 && 'type=registry,ref=europe-west3-docker.pkg.dev/gen-456515/eu-dockers-cache/shared,mode=max,compression=zstd' || '' }}
       -
         name: Clean cache after failure
         if: steps.build1.outcome == 'failure'
@@ -180,8 +180,8 @@ jobs:
           CONTEXT: ${{ env.CONTEXT }}
           MINER_HOTKEY: ${{ env.MINER_HOTKEY_LOWER }}
           DOCKERFILE: ${{ env.DOCKERFILE }}
-          CACHE_FROM: type=registry,ref=europe-docker.pkg.dev/gen-456515/dockers-cache/shared
-          CACHE_TO: ${{ strategy.job-index == 0 && 'type=registry,ref=europe-docker.pkg.dev/gen-456515/dockers-cache/shared,mode=max,compression=zstd' || '' }}
+          CACHE_FROM: type=registry,ref=europe-west3-docker.pkg.dev/gen-456515/eu-dockers-cache/shared
+          CACHE_TO: ${{ strategy.job-index == 0 && 'type=registry,ref=europe-west3-docker.pkg.dev/gen-456515/eu-dockers-cache/shared,mode=max,compression=zstd' || '' }}
       -
         name: Display image URL
         run: |

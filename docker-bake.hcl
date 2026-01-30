@@ -3,7 +3,7 @@ variable "VERSION" {
 }
 
 variable "REGISTRY_NAME" {
-  default = "competition-1"
+  default = "active-competition"
 }
 
 variable "GITHUB_TOKEN" {
@@ -56,6 +56,6 @@ target "gen404-image" {
   cache-from = split(";", CACHE_FROM)
   cache-to = split(";", CACHE_TO)
   tags = [
-    "europe-docker.pkg.dev/gen-456515/${REGISTRY_NAME}/${MINER_HOTKEY}:${VERSION}",
+    "europe-west3-docker.pkg.dev/gen-456515/${REGISTRY_NAME}/${MINER_HOTKEY}:${VERSION}",
   ]
 }
