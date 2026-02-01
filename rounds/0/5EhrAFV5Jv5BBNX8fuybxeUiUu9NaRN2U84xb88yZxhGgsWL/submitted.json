@@ -478,5 +478,13 @@
     "size": 43407184,
     "attempts": 0,
     "distance": 0.0
+  },
+  "80c3b7923b0442e1271f60fecc84a4845a7ef570cc550ac08a06aab92772ff22": {
+    "glb": "https://subnet404.xyz/rounds/0/5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL/submitted/80c3b7923b0442e1271f60fecc84a4845a7ef570cc550ac08a06aab92772ff22.glb",
+    "png": "https://subnet404.xyz/rounds/0/5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL/submitted/80c3b7923b0442e1271f60fecc84a4845a7ef570cc550ac08a06aab92772ff22.png",
+    "generation_time": 0.0,
+    "size": 38308616,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
