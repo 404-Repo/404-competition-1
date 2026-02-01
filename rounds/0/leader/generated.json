@@ -248,34 +248,162 @@
     "distance": 0.0
   },
   "ebaa67dd070573f5751e1665fbc9123c6a4bb48576c9c26f3111ae28be542d3e": {
-    "glb": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0,
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/ebaa67dd070573f5751e1665fbc9123c6a4bb48576c9c26f3111ae28be542d3e.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/ebaa67dd070573f5751e1665fbc9123c6a4bb48576c9c26f3111ae28be542d3e.png",
+    "generation_time": 220.43835965078324,
+    "size": 40833940,
     "attempts": 0,
     "distance": 0.0
   },
   "1a48b44fe11ea200531864b12f4cb91190695c36a865f9d1fa04c6a1f5f98552": {
-    "glb": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0,
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/1a48b44fe11ea200531864b12f4cb91190695c36a865f9d1fa04c6a1f5f98552.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/1a48b44fe11ea200531864b12f4cb91190695c36a865f9d1fa04c6a1f5f98552.png",
+    "generation_time": 115.96173264924437,
+    "size": 36435172,
     "attempts": 0,
     "distance": 0.0
   },
   "f0db182517a6c3e0a0378a6e8136875a72f0348a4a03092be6a565b67f1e0a5f": {
-    "glb": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0,
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/f0db182517a6c3e0a0378a6e8136875a72f0348a4a03092be6a565b67f1e0a5f.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/f0db182517a6c3e0a0378a6e8136875a72f0348a4a03092be6a565b67f1e0a5f.png",
+    "generation_time": 82.49886750523001,
+    "size": 33983404,
     "attempts": 0,
     "distance": 0.0
   },
   "8e05140dc29abf38aa100027b10cd72703761fb9d4957d1330245f4e7099e066": {
-    "glb": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0,
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/8e05140dc29abf38aa100027b10cd72703761fb9d4957d1330245f4e7099e066.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/8e05140dc29abf38aa100027b10cd72703761fb9d4957d1330245f4e7099e066.png",
+    "generation_time": 40.54027310479432,
+    "size": 33549668,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "11b96378b7172e0dac8f6913468cb688768da18f82f1d003b44d2869ae154d0b": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/11b96378b7172e0dac8f6913468cb688768da18f82f1d003b44d2869ae154d0b.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/11b96378b7172e0dac8f6913468cb688768da18f82f1d003b44d2869ae154d0b.png",
+    "generation_time": 81.04209140688181,
+    "size": 42003144,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "942b27f7a4b6a875b8041c5d2b096416edceef8d89ffe70e26e46ecfc86d9784": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/942b27f7a4b6a875b8041c5d2b096416edceef8d89ffe70e26e46ecfc86d9784.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/942b27f7a4b6a875b8041c5d2b096416edceef8d89ffe70e26e46ecfc86d9784.png",
+    "generation_time": 69.12185828899965,
+    "size": 36847232,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "9ea6e5a0-1d20-41a1-98bb-9d95907c3eb5": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/9ea6e5a0-1d20-41a1-98bb-9d95907c3eb5.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/9ea6e5a0-1d20-41a1-98bb-9d95907c3eb5.png",
+    "generation_time": 58.26841108920053,
+    "size": 35583720,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "51d012fbfea090dba6a131b717faa7a1c02cece4884c4c1e905674a9feaa8fd4": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/51d012fbfea090dba6a131b717faa7a1c02cece4884c4c1e905674a9feaa8fd4.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/51d012fbfea090dba6a131b717faa7a1c02cece4884c4c1e905674a9feaa8fd4.png",
+    "generation_time": 54.89078846340999,
+    "size": 36348988,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "4d8a9da95d3a47b48d6868992912045cca0c376ca71a1c16c1fc828c8b2b0020": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/4d8a9da95d3a47b48d6868992912045cca0c376ca71a1c16c1fc828c8b2b0020.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/4d8a9da95d3a47b48d6868992912045cca0c376ca71a1c16c1fc828c8b2b0020.png",
+    "generation_time": 73.67134443297982,
+    "size": 35230728,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "831af32ba760a4daa2f4c89ca8535e1e23d6e3f0fd50638efe73fc8a52d19893": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/831af32ba760a4daa2f4c89ca8535e1e23d6e3f0fd50638efe73fc8a52d19893.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/831af32ba760a4daa2f4c89ca8535e1e23d6e3f0fd50638efe73fc8a52d19893.png",
+    "generation_time": 108.00398076977581,
+    "size": 39946236,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "4e6dc4461c43887837fc0f785490e9872e3d0b7da9cd838edcd6325b3e90010c": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/4e6dc4461c43887837fc0f785490e9872e3d0b7da9cd838edcd6325b3e90010c.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/4e6dc4461c43887837fc0f785490e9872e3d0b7da9cd838edcd6325b3e90010c.png",
+    "generation_time": 59.352108089253306,
+    "size": 37972392,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "b6dfe29b-70ab-4725-816a-bf8ae2766d3f": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/b6dfe29b-70ab-4725-816a-bf8ae2766d3f.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/b6dfe29b-70ab-4725-816a-bf8ae2766d3f.png",
+    "generation_time": 111.8707887348719,
+    "size": 39613284,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "9886fc325e4d28fdd1ffce8dfab2284e6b3ee060e24ca6ff7b9c34dab6310ed7": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/9886fc325e4d28fdd1ffce8dfab2284e6b3ee060e24ca6ff7b9c34dab6310ed7.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/9886fc325e4d28fdd1ffce8dfab2284e6b3ee060e24ca6ff7b9c34dab6310ed7.png",
+    "generation_time": 90.57986976299435,
+    "size": 41644336,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "f26af34a5e47fa321cb3a6d7afe57a5fbae5b98c4e1293cecfa411edfaf54d77": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/f26af34a5e47fa321cb3a6d7afe57a5fbae5b98c4e1293cecfa411edfaf54d77.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/f26af34a5e47fa321cb3a6d7afe57a5fbae5b98c4e1293cecfa411edfaf54d77.png",
+    "generation_time": 212.23004679987207,
+    "size": 46170160,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "ce1932e944168bea63d6904e0a5e8b7ba3258f9b5f44c08097190d8d2502daf4": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/ce1932e944168bea63d6904e0a5e8b7ba3258f9b5f44c08097190d8d2502daf4.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/ce1932e944168bea63d6904e0a5e8b7ba3258f9b5f44c08097190d8d2502daf4.png",
+    "generation_time": 69.328614954371,
+    "size": 38429480,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "dfd47aa9fda35695cb30e0ac4a316b65f69028666f9b2bfb6b6b54ec74bd62f6": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/dfd47aa9fda35695cb30e0ac4a316b65f69028666f9b2bfb6b6b54ec74bd62f6.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/dfd47aa9fda35695cb30e0ac4a316b65f69028666f9b2bfb6b6b54ec74bd62f6.png",
+    "generation_time": 63.946780085098,
+    "size": 37257992,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "5dc659235ed0761e9f6c6de496dfa0415a12f633722a5407fcb2cb29fbd2daa3": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/5dc659235ed0761e9f6c6de496dfa0415a12f633722a5407fcb2cb29fbd2daa3.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/5dc659235ed0761e9f6c6de496dfa0415a12f633722a5407fcb2cb29fbd2daa3.png",
+    "generation_time": 56.682507331017405,
+    "size": 36212260,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "cd6b9a97d793f6d112fdbab5b1426a7dce9cd53e450c300bac3e2ed62c82ca8d": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/cd6b9a97d793f6d112fdbab5b1426a7dce9cd53e450c300bac3e2ed62c82ca8d.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/cd6b9a97d793f6d112fdbab5b1426a7dce9cd53e450c300bac3e2ed62c82ca8d.png",
+    "generation_time": 57.23440734623,
+    "size": 35124748,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "5af9330b264940e58553393acf3ef26f06476370957f88332ef620b6a8197109": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/5af9330b264940e58553393acf3ef26f06476370957f88332ef620b6a8197109.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/5af9330b264940e58553393acf3ef26f06476370957f88332ef620b6a8197109.png",
+    "generation_time": 62.528904592618346,
+    "size": 34931220,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "5d4d381159433904802e01492372d26a06e4eef72ace22a0bd1c1f2764e6f4bf": {
+    "glb": "https://subnet404.xyz/rounds/0/leader/generated/5d4d381159433904802e01492372d26a06e4eef72ace22a0bd1c1f2764e6f4bf.glb",
+    "png": "https://subnet404.xyz/rounds/0/leader/generated/5d4d381159433904802e01492372d26a06e4eef72ace22a0bd1c1f2764e6f4bf.png",
+    "generation_time": 78.65331837208942,
+    "size": 35412608,
     "attempts": 0,
     "distance": 0.0
   }
