@@ -470,5 +470,13 @@
     "size": 35268116,
     "attempts": 0,
     "distance": 0.0
+  },
+  "553829f9-3cfa-4b04-a2b2-1a47882f0ad5": {
+    "glb": "https://subnet404.xyz/rounds/0/5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL/submitted/553829f9-3cfa-4b04-a2b2-1a47882f0ad5.glb",
+    "png": "https://subnet404.xyz/rounds/0/5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL/submitted/553829f9-3cfa-4b04-a2b2-1a47882f0ad5.png",
+    "generation_time": 0.0,
+    "size": 43407184,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
