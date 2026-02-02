@@ -662,5 +662,45 @@
     "size": 24690152,
     "attempts": 1,
     "distance": 0.0720820426940918
+  },
+  "695427c8bdc0bed07ba5385c7045de8a4d29b32e3a02240fd9d5e74c86da9224": {
+    "glb": "https://subnet404.xyz/rounds/0/5DScQA9A1u6WjdxbHhgyqDQWe46Jd6RGB97XontiqB2KnBRs/generated/695427c8bdc0bed07ba5385c7045de8a4d29b32e3a02240fd9d5e74c86da9224.glb",
+    "png": "https://subnet404.xyz/rounds/0/5DScQA9A1u6WjdxbHhgyqDQWe46Jd6RGB97XontiqB2KnBRs/generated/695427c8bdc0bed07ba5385c7045de8a4d29b32e3a02240fd9d5e74c86da9224.png",
+    "generation_time": 147.67308753589168,
+    "size": 31632032,
+    "attempts": 1,
+    "distance": 0.3074226379394531
+  },
+  "e7b92479b8e362e5d83facd8c7422dce3b279a53f42853efe48baa0b95eeb2c0": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "06f2a1e8120e31e0affab4bb636983a9b467d28831dcd1d266f0b62568f6122e": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "a638d094-a946-471c-9963-a28946a6e979": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "6e80ab72950aaf6067c1fa35c9b9e4c6fc9ad8acd8b62ffc5d58447ad2c5fa7d": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
   }
 }
