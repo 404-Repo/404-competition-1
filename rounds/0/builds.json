@@ -164,7 +164,7 @@
     "commit": "a697056f36cdfe69dcb71651642ef91300356d08",
     "revealed_at_block": 7450633,
     "tag": "a697056-mesh-0",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5Hap9AY2XLfQnx25hfSsJ5qhsyD2dnBggwQBE7bj5NKJro18": {
@@ -348,7 +348,7 @@
     "commit": "1626245155d8319c234aa5b563f9d5a02827cd20",
     "revealed_at_block": 7454891,
     "tag": "1626245-mesh-0",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5Hgo1VsLv1pzF9fjCSms57iNxW38mCJpe9M3Udjs98fgm4bW": {
@@ -356,7 +356,7 @@
     "commit": "c6ebe53503ba9e69817d0b036d1b6fcc7f1ed08b",
     "revealed_at_block": 7454924,
     "tag": "c6ebe53-mesh-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgo1vslv1:c6ebe53-mesh-0"
   }
 }
