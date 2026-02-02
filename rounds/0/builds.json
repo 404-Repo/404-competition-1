@@ -76,8 +76,8 @@
     "commit": "f139c1d35205d814e3b3d0e7388698696b583f08",
     "revealed_at_block": 7448521,
     "tag": "f139c1d-mesh-0",
-    "status": "not_found",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hgasgy6ay:f139c1d-mesh-0"
   },
   "5D9hoPyiDrErKXFN7Gh5ngu5s7cLsMMi5kTWyCLzfoKYqH4B": {
     "repo": "Uglejo/laughing-doodle",
