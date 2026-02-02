@@ -244,8 +244,8 @@
     "commit": "53d28e2b0de6398e20d91ac4b7ea4867f0b94571",
     "revealed_at_block": 7454423,
     "tag": "53d28e2-mesh-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5cahd2fkcu:53d28e2-mesh-0"
   },
   "5GgpGaDxzTyBAME1Ju9ZhUstWj2VTm1n4tAUkRHLi4birQZg": {
     "repo": "Alexander-star-star/super-duper-funicular",
