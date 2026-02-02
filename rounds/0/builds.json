@@ -5,7 +5,7 @@
     "revealed_at_block": 7434358,
     "tag": "6ff9eb5-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ehrafv5jv:6ff9eb5-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ehrafv5jv:6ff9eb5-mesh-0"
   },
   "5DScQA9A1u6WjdxbHhgyqDQWe46Jd6RGB97XontiqB2KnBRs": {
     "repo": "meimei-ai-404/refactored-chopstick",
@@ -13,7 +13,7 @@
     "revealed_at_block": 7443605,
     "tag": "62cd399-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dscqa9a1u:62cd399-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5dscqa9a1u:62cd399-mesh-0"
   },
   "5GTRip78cyK3Vp1MQZR9kMbPCugaw7xHj5Qq8XLL9FZMtne4": {
     "repo": "Alexander-star-star/probable-telegram",
@@ -21,7 +21,7 @@
     "revealed_at_block": 7446197,
     "tag": "3560e49-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gtrip78cy:3560e49-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gtrip78cy:3560e49-mesh-0"
   },
   "5EeoBSBE3ozwazUeK3vfy6D9uF4ajwMWAtTkQcEGzoK7YJUH": {
     "repo": "TuttiGenerator/improved-chainsaw",
@@ -29,7 +29,7 @@
     "revealed_at_block": 7448506,
     "tag": "b0b9999-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eeobsbe3o:b0b9999-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5eeobsbe3o:b0b9999-mesh-0"
   },
   "5FLiyT19Vc2QEiuGkygZ7VZw9Y9i8WkT53k3Kda9FrKUUxuq": {
     "repo": "TuttiGenerator/zorbela",
@@ -37,7 +37,7 @@
     "revealed_at_block": 7448506,
     "tag": "39e51a6-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fliyt19vc:39e51a6-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fliyt19vc:39e51a6-mesh-0"
   },
   "5G8zvbeRVMFUKWaHsgKmzSWxXaTGKG75XNW3cznjopQVq7JS": {
     "repo": "mokabetrade/symmetrical-adventure",
@@ -45,7 +45,7 @@
     "revealed_at_block": 7448521,
     "tag": "e570158-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5g8zvbervm:e570158-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5g8zvbervm:e570158-mesh-0"
   },
   "5EqNLQBYYWMcHdid25TEDGUdgT67ZGLB49QvczcKs5rH58Hh": {
     "repo": "mokabetrade/drelto",
@@ -53,7 +53,7 @@
     "revealed_at_block": 7448521,
     "tag": "5aa875d-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eqnlqbyyw:5aa875d-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5eqnlqbyyw:5aa875d-mesh-0"
   },
   "5D5TcQucAYBDeXHUm96qihrS8XZgruHuRo9NSrqjvFbW2VQV": {
     "repo": "Uglejo/stack-harbor",
@@ -61,7 +61,7 @@
     "revealed_at_block": 7448521,
     "tag": "23297f0-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5d5tcqucay:23297f0-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5d5tcqucay:23297f0-mesh-0"
   },
   "5FqZqKgJKbXQ1D73WbMBhiicwoEYUZaWSFX9TZo9C8vgeUnx": {
     "repo": "Uglejo/kernel-drift",
@@ -69,7 +69,7 @@
     "revealed_at_block": 7448521,
     "tag": "5c6b2a1-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fqzqkgjkb:5c6b2a1-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fqzqkgjkb:5c6b2a1-mesh-0"
   },
   "5HGasgY6AYfnhXD6sWgbrDjkYk3zT2q3hEcoafJDuUNvJcSe": {
     "repo": "mokabetrade/voxali",
@@ -85,7 +85,7 @@
     "revealed_at_block": 7448522,
     "tag": "098b45a-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5d9hopyidr:098b45a-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5d9hopyidr:098b45a-mesh-0"
   },
   "5HGkjAPscsRE1H5Q41P7HQcY4UBBkBMXwBCYjBaC4GLuaQg4": {
     "repo": "mokabetrade/psychic-carnival",
@@ -93,7 +93,7 @@
     "revealed_at_block": 7448522,
     "tag": "1e08a87-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgkjapscs:1e08a87-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hgkjapscs:1e08a87-mesh-0"
   },
   "5G3cGpK7Sa79xdh11yCbSSaWe22SpWMSNQoD8Whx7qZi3GTc": {
     "repo": "TuttiGenerator/alipna",
@@ -101,7 +101,7 @@
     "revealed_at_block": 7448522,
     "tag": "9d9538b-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5g3cgpk7sa:9d9538b-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5g3cgpk7sa:9d9538b-mesh-0"
   },
   "5FWtavKyXwQ6CnqM1LyvbGdhD4t7dE57oPe6attMT423HCgY": {
     "repo": "meimei-ai-404/refactored-chopstick",
@@ -109,7 +109,7 @@
     "revealed_at_block": 7450045,
     "tag": "60dd3d9-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fwtavkyxw:60dd3d9-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fwtavkyxw:60dd3d9-mesh-0"
   },
   "5EU9jUxguB5VBNv7M2QmUzR1WA74VfsHe1bC6xCu5mdc3g98": {
     "repo": "JohnAlfonso/objectGen",
@@ -133,7 +133,7 @@
     "revealed_at_block": 7450606,
     "tag": "2945d4a-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ggvxyjs3r:2945d4a-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ggvxyjs3r:2945d4a-mesh-0"
   },
   "5G1Vnk2D2nVkZcB1MfUb2sgRvS1diUzd1W4ygbVqkBKHwDbN": {
     "repo": "mokabetrade/expert-enigma",
@@ -141,7 +141,7 @@
     "revealed_at_block": 7450606,
     "tag": "495a245-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5g1vnk2d2n:495a245-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5g1vnk2d2n:495a245-mesh-0"
   },
   "5H3PdHjjMf9vntGfayWJNnmqRQeRKkhRPr6cS9DgisJWth7M": {
     "repo": "Uglejo/micro-orbit",
@@ -149,7 +149,7 @@
     "revealed_at_block": 7450632,
     "tag": "2d678d7-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h3pdhjjmf:2d678d7-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5h3pdhjjmf:2d678d7-mesh-0"
   },
   "5CnxA9q87uE4rkHqTfT4heV3wDXcpp4qyjRKd13Mm5UWv3iM": {
     "repo": "Uglejo/graphite-mesh",
@@ -157,7 +157,7 @@
     "revealed_at_block": 7450632,
     "tag": "ecd028d-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5cnxa9q87u:ecd028d-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5cnxa9q87u:ecd028d-mesh-0"
   },
   "5GsWQ79j1DtfVEPFnn8ATuZL4SFv4hxtaGp6jE6XyfNwNiNY": {
     "repo": "Uglejo/flux-engine",
@@ -165,7 +165,7 @@
     "revealed_at_block": 7450633,
     "tag": "a697056-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gswq79j1d:a697056-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gswq79j1d:a697056-mesh-0"
   },
   "5Hap9AY2XLfQnx25hfSsJ5qhsyD2dnBggwQBE7bj5NKJro18": {
     "repo": "Uglejo/cosmic-bits",
@@ -173,7 +173,7 @@
     "revealed_at_block": 7450633,
     "tag": "7a01688-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hap9ay2xl:7a01688-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hap9ay2xl:7a01688-mesh-0"
   },
   "5Gsf3XFM4aRtSAB1mJNDix74fdAyBLowS8HTtPn3J7WgRVyk": {
     "repo": "Uglejo/vault-stream",
@@ -181,7 +181,7 @@
     "revealed_at_block": 7450633,
     "tag": "cae8c5b-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gsf3xfm4a:cae8c5b-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gsf3xfm4a:cae8c5b-mesh-0"
   },
   "5G1GM8LUMzzSiyQ6kMJQsTcTVLb5pFUD3jXDuUkcN8VyUX7A": {
     "repo": "Uglejo/data-basilisk",
@@ -189,7 +189,7 @@
     "revealed_at_block": 7450642,
     "tag": "ca01585-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5g1gm8lumz:ca01585-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5g1gm8lumz:ca01585-mesh-0"
   },
   "5FKjDg5FfNBbDLMp2n6mQG33MApxTyAy1YkbqCFArsc2RwYE": {
     "repo": "Uglejo/echo-runtime",
@@ -197,7 +197,7 @@
     "revealed_at_block": 7450642,
     "tag": "9333bc9-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fkjdg5ffn:9333bc9-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fkjdg5ffn:9333bc9-mesh-0"
   },
   "5EjwzQdAutgZe1xVw5w2hGnwww73htfyRB5aiSs2RFzhnSYa": {
     "repo": "TuttiGenerator/hexforge",
@@ -205,7 +205,7 @@
     "revealed_at_block": 7450642,
     "tag": "30cf28b-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ejwzqdaut:30cf28b-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ejwzqdaut:30cf28b-mesh-0"
   },
   "5FcDQ6Eh3dCvSe5WCqNSkaGYkksEUvjm3Be5y1EbJcuKpTt8": {
     "repo": "meimei-ai-404/refactored-chopstick",
@@ -213,7 +213,7 @@
     "revealed_at_block": 7453532,
     "tag": "60dd3d9-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fcdq6eh3d:60dd3d9-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fcdq6eh3d:60dd3d9-mesh-0"
   },
   "5FP3qpaSyRrmpEcFstA3NbCDFvRB6GErTrwTX93zNPJvwXfr": {
     "repo": "meimei-ai-404/refactored-chopstick",
@@ -221,7 +221,7 @@
     "revealed_at_block": 7453688,
     "tag": "60dd3d9-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fp3qpasyr:60dd3d9-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fp3qpasyr:60dd3d9-mesh-0"
   },
   "5DxxAjWNrCKFgrWpZ6q1xe3bXTVAvCDZM4HoPpJGh4Pof8mx": {
     "repo": "kiennt120/zootopia",
@@ -229,7 +229,7 @@
     "revealed_at_block": 7454114,
     "tag": "504b409-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dxxajwnrc:504b409-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5dxxajwnrc:504b409-mesh-0"
   },
   "5E7uzauqHvTxZtTA8bmSGvNSTKqEzmnj49kZGmV6qmzLz3W5": {
     "repo": "kiennt120/zootopia",
@@ -245,7 +245,7 @@
     "revealed_at_block": 7454423,
     "tag": "53d28e2-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5cahd2fkcu:53d28e2-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5cahd2fkcu:53d28e2-mesh-0"
   },
   "5GgpGaDxzTyBAME1Ju9ZhUstWj2VTm1n4tAUkRHLi4birQZg": {
     "repo": "Alexander-star-star/super-duper-funicular",
@@ -253,7 +253,7 @@
     "revealed_at_block": 7454437,
     "tag": "aa10f6f-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ggpgadxzt:aa10f6f-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ggpgadxzt:aa10f6f-mesh-0"
   },
   "5Dc3evhfot3HYoZ47xboK5cBrXnYs1ug2ZVgB5PLx83VKz1R": {
     "repo": "JohnAlfonso/MeshMagic2",
@@ -261,7 +261,7 @@
     "revealed_at_block": 7454446,
     "tag": "010d708-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dc3evhfot:010d708-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5dc3evhfot:010d708-mesh-0"
   },
   "5GGsuLzc5aTW6n6CWtrncf4aYmePuVKHDemjdgHQyqY5ea1Y": {
     "repo": "Alexander-star-star/ubiquitous-octo-adventure",
@@ -269,7 +269,7 @@
     "revealed_at_block": 7454456,
     "tag": "1b0348d-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ggsulzc5a:1b0348d-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ggsulzc5a:1b0348d-mesh-0"
   },
   "5E9YfJF8RwsUmq4RdDWAtXJhq1cRvBDFeTtHrmo1mEHwT3pA": {
     "repo": "Alexander-star-star/fuzzy-rotary-phone",
@@ -277,7 +277,7 @@
     "revealed_at_block": 7454472,
     "tag": "5ea7574-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e9yfjf8rw:5ea7574-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5e9yfjf8rw:5ea7574-mesh-0"
   },
   "5DCzQsj5fY7sPCyqk7BaG8NxctEu52iWxTRy488XAMYVfnPK": {
     "repo": "meimei-ai-404/refactored-chopstick",
@@ -285,7 +285,7 @@
     "revealed_at_block": 7454514,
     "tag": "1626245-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dczqsj5fy:1626245-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5dczqsj5fy:1626245-mesh-0"
   },
   "5CwGtXp12GZnUHwQYJcdkVgZeaBVmMXy34spKkYy3aLcc9Ti": {
     "repo": "Alexander-star-star/probable-telegram",
@@ -293,7 +293,7 @@
     "revealed_at_block": 7454515,
     "tag": "3560e49-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5cwgtxp12g:3560e49-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5cwgtxp12g:3560e49-mesh-0"
   },
   "5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH": {
     "repo": "Alexander-star-star/probable-telegram",
@@ -301,7 +301,7 @@
     "revealed_at_block": 7454551,
     "tag": "3560e49-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eu1viscfc:3560e49-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5eu1viscfc:3560e49-mesh-0"
   },
   "5H9bvDjbYHpCwDfPkcak8wVSAPtkCfb6n9MpVMAvRD3JMkbL": {
     "repo": "Alexander-star-star/super-duper-funicular",
@@ -309,7 +309,7 @@
     "revealed_at_block": 7454578,
     "tag": "aa10f6f-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h9bvdjbyh:aa10f6f-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5h9bvdjbyh:aa10f6f-mesh-0"
   },
   "5E5A9q65xzJm8VToNSA898tG4AhjL7H6Ssenmrv3SDn3EtJ8": {
     "repo": "Alexander-star-star/ubiquitous-octo-adventure",
@@ -317,7 +317,7 @@
     "revealed_at_block": 7454590,
     "tag": "1b0348d-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e5a9q65xz:1b0348d-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5e5a9q65xz:1b0348d-mesh-0"
   },
   "5GmnqjwWjdcA41g3wZtWwkrK2EJKb2Adq5Y5PHWqJoe7gVGL": {
     "repo": "Alexander-star-star/fuzzy-rotary-phone",
@@ -325,7 +325,7 @@
     "revealed_at_block": 7454603,
     "tag": "5ea7574-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gmnqjwwjd:5ea7574-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gmnqjwwjd:5ea7574-mesh-0"
   },
   "5HEocZgrZ8kYwsw5qy6XZuzSZk7GiDh9GN7xkoW3XhvfnV3d": {
     "repo": "JohnAlfonso/MeshMagic3",
@@ -333,7 +333,7 @@
     "revealed_at_block": 7454672,
     "tag": "25bcb8d-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5heoczgrz8:25bcb8d-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5heoczgrz8:25bcb8d-mesh-0"
   },
   "5CfW6cxF7S7dzFanK1uv2pEdRS251cZMLqn6w9R8FmYTUBou": {
     "repo": "JohnAlfonso/DreamMesh",
@@ -349,7 +349,7 @@
     "revealed_at_block": 7454891,
     "tag": "1626245-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hbsdvjuws:1626245-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hbsdvjuws:1626245-mesh-0"
   },
   "5Hgo1VsLv1pzF9fjCSms57iNxW38mCJpe9M3Udjs98fgm4bW": {
     "repo": "JohnAlfonso/LivingMesh",
@@ -357,6 +357,6 @@
     "revealed_at_block": 7454924,
     "tag": "c6ebe53-mesh-0",
     "status": "success",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgo1vslv1:c6ebe53-mesh-0"
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hgo1vslv1:c6ebe53-mesh-0"
   }
 }
