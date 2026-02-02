@@ -7,5 +7,14 @@
     "failed_critical": 0,
     "generation_time": 57.67609970388003,
     "reason": ""
+  },
+  "5DScQA9A1u6WjdxbHhgyqDQWe46Jd6RGB97XontiqB2KnBRs": {
+    "hotkey": "5DScQA9A1u6WjdxbHhgyqDQWe46Jd6RGB97XontiqB2KnBRs",
+    "outcome": "rejected",
+    "checked_prompts": 128,
+    "failed_prompts": 43,
+    "failed_critical": 0,
+    "generation_time": 63.91356457117945,
+    "reason": "Non-critical mismatches (43) exceed tolerance (6)"
   }
 }
