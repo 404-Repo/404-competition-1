@@ -750,5 +750,13 @@
     "size": 21319880,
     "attempts": 0,
     "distance": 0.0
+  },
+  "5771804bed455ac2140ecc2cd7b342bd11be7b3c052b1fe9132d4614c4244771": {
+    "glb": "https://subnet404.xyz/rounds/0/5DScQA9A1u6WjdxbHhgyqDQWe46Jd6RGB97XontiqB2KnBRs/submitted/5771804bed455ac2140ecc2cd7b342bd11be7b3c052b1fe9132d4614c4244771.glb",
+    "png": "https://subnet404.xyz/rounds/0/5DScQA9A1u6WjdxbHhgyqDQWe46Jd6RGB97XontiqB2KnBRs/submitted/5771804bed455ac2140ecc2cd7b342bd11be7b3c052b1fe9132d4614c4244771.png",
+    "generation_time": 0.0,
+    "size": 22415828,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
