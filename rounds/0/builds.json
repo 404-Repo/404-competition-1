@@ -36,7 +36,7 @@
     "commit": "39e51a6d799293424cc6b547124a0f4ac3fdb921",
     "revealed_at_block": 7448506,
     "tag": "39e51a6-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5G8zvbeRVMFUKWaHsgKmzSWxXaTGKG75XNW3cznjopQVq7JS": {
@@ -60,8 +60,8 @@
     "commit": "23297f036e3bf30ecf3bb31075bca0af9567c738",
     "revealed_at_block": 7448521,
     "tag": "23297f0-mesh-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5d5tcqucay:23297f0-mesh-0"
   },
   "5FqZqKgJKbXQ1D73WbMBhiicwoEYUZaWSFX9TZo9C8vgeUnx": {
     "repo": "Uglejo/kernel-drift",
@@ -84,8 +84,8 @@
     "commit": "098b45a6d30d5f0e4d6cd46d7a7d539fc5f39a06",
     "revealed_at_block": 7448522,
     "tag": "098b45a-mesh-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5d9hopyidr:098b45a-mesh-0"
   },
   "5HGkjAPscsRE1H5Q41P7HQcY4UBBkBMXwBCYjBaC4GLuaQg4": {
     "repo": "mokabetrade/psychic-carnival",
@@ -108,7 +108,7 @@
     "commit": "60dd3d95cc808ebda8e2d6be8606c5464a9f4ce8",
     "revealed_at_block": 7450045,
     "tag": "60dd3d9-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EU9jUxguB5VBNv7M2QmUzR1WA74VfsHe1bC6xCu5mdc3g98": {
@@ -156,8 +156,8 @@
     "commit": "ecd028d2e40580504e76331914cd97d212e51552",
     "revealed_at_block": 7450632,
     "tag": "ecd028d-mesh-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5cnxa9q87u:ecd028d-mesh-0"
   },
   "5GsWQ79j1DtfVEPFnn8ATuZL4SFv4hxtaGp6jE6XyfNwNiNY": {
     "repo": "Uglejo/flux-engine",
@@ -212,7 +212,7 @@
     "commit": "60dd3d95cc808ebda8e2d6be8606c5464a9f4ce8",
     "revealed_at_block": 7453532,
     "tag": "60dd3d9-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FP3qpaSyRrmpEcFstA3NbCDFvRB6GErTrwTX93zNPJvwXfr": {
@@ -220,7 +220,7 @@
     "commit": "60dd3d95cc808ebda8e2d6be8606c5464a9f4ce8",
     "revealed_at_block": 7453688,
     "tag": "60dd3d9-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DxxAjWNrCKFgrWpZ6q1xe3bXTVAvCDZM4HoPpJGh4Pof8mx": {
@@ -300,8 +300,8 @@
     "commit": "3560e492fb0eec813dcca558669ae429ea189f1c",
     "revealed_at_block": 7454551,
     "tag": "3560e49-mesh-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eu1viscfc:3560e49-mesh-0"
   },
   "5H9bvDjbYHpCwDfPkcak8wVSAPtkCfb6n9MpVMAvRD3JMkbL": {
     "repo": "Alexander-star-star/super-duper-funicular",
@@ -316,7 +316,7 @@
     "commit": "1b0348dee7c537b313368af92bbb469f7e523f7b",
     "revealed_at_block": 7454590,
     "tag": "1b0348d-mesh-0",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5GmnqjwWjdcA41g3wZtWwkrK2EJKb2Adq5Y5PHWqJoe7gVGL": {
