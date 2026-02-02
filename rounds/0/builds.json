@@ -236,8 +236,8 @@
     "commit": "f7fe0bb258df43d58d40de155ecd2899520c9efd",
     "revealed_at_block": 7454125,
     "tag": "f7fe0bb-mesh-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5e7uzauqhv:f7fe0bb-mesh-0"
   },
   "5CaHD2FKcuHaEJpTyDaaw9pkbe2RFPsep9nvLksFDAuw2FHG": {
     "repo": "JohnAlfonso/MeshMagic",
