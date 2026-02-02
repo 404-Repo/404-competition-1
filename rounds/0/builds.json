@@ -308,7 +308,7 @@
     "commit": "aa10f6f21a33467c6a31d25d7569ad4c8fd49f62",
     "revealed_at_block": 7454578,
     "tag": "aa10f6f-mesh-0",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5E5A9q65xzJm8VToNSA898tG4AhjL7H6Ssenmrv3SDn3EtJ8": {
