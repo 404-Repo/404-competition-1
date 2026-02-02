@@ -20,7 +20,7 @@
     "commit": "3560e492fb0eec813dcca558669ae429ea189f1c",
     "revealed_at_block": 7446197,
     "tag": "3560e49-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EeoBSBE3ozwazUeK3vfy6D9uF4ajwMWAtTkQcEGzoK7YJUH": {
@@ -36,7 +36,7 @@
     "commit": "39e51a6d799293424cc6b547124a0f4ac3fdb921",
     "revealed_at_block": 7448506,
     "tag": "39e51a6-mesh-0",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5G8zvbeRVMFUKWaHsgKmzSWxXaTGKG75XNW3cznjopQVq7JS": {
@@ -132,7 +132,7 @@
     "commit": "2945d4a591906c1b7932410451368427a3d31ef1",
     "revealed_at_block": 7450606,
     "tag": "2945d4a-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5G1Vnk2D2nVkZcB1MfUb2sgRvS1diUzd1W4ygbVqkBKHwDbN": {
@@ -212,7 +212,7 @@
     "commit": "60dd3d95cc808ebda8e2d6be8606c5464a9f4ce8",
     "revealed_at_block": 7453532,
     "tag": "60dd3d9-mesh-0",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5FP3qpaSyRrmpEcFstA3NbCDFvRB6GErTrwTX93zNPJvwXfr": {
@@ -252,7 +252,7 @@
     "commit": "aa10f6f21a33467c6a31d25d7569ad4c8fd49f62",
     "revealed_at_block": 7454437,
     "tag": "aa10f6f-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Dc3evhfot3HYoZ47xboK5cBrXnYs1ug2ZVgB5PLx83VKz1R": {
@@ -268,7 +268,7 @@
     "commit": "1b0348dee7c537b313368af92bbb469f7e523f7b",
     "revealed_at_block": 7454456,
     "tag": "1b0348d-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5E9YfJF8RwsUmq4RdDWAtXJhq1cRvBDFeTtHrmo1mEHwT3pA": {
@@ -324,7 +324,7 @@
     "commit": "5ea757403b1c773d1299963bb6b9a4197aba6b41",
     "revealed_at_block": 7454603,
     "tag": "5ea7574-mesh-0",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HEocZgrZ8kYwsw5qy6XZuzSZk7GiDh9GN7xkoW3XhvfnV3d": {
