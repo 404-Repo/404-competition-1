@@ -902,5 +902,53 @@
     "size": 21468824,
     "attempts": 0,
     "distance": 0.0
+  },
+  "06657f2a94d4849a247089c43354c9e2e73a3921e8772a07a8601bfa7cad4c9a": {
+    "glb": "https://subnet404.xyz/rounds/0/5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH/submitted/06657f2a94d4849a247089c43354c9e2e73a3921e8772a07a8601bfa7cad4c9a.glb",
+    "png": "https://subnet404.xyz/rounds/0/5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH/submitted/06657f2a94d4849a247089c43354c9e2e73a3921e8772a07a8601bfa7cad4c9a.png",
+    "generation_time": 0.0,
+    "size": 8116884,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "49b616e62b9be99bc5cf5761039264db4361ac259d7103c9e095cc35566d5934": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "d25e9b4ac3d3dee32c1b7a8fad89ed3bb89ee1c114572e5ea4168769e63cf80f": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "df5b5b0cbe8a7201f640257fb26e13d697b20e18d0f1a5c554e39d3a38298283": {
+    "glb": "https://subnet404.xyz/rounds/0/5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH/submitted/df5b5b0cbe8a7201f640257fb26e13d697b20e18d0f1a5c554e39d3a38298283.glb",
+    "png": "https://subnet404.xyz/rounds/0/5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH/submitted/df5b5b0cbe8a7201f640257fb26e13d697b20e18d0f1a5c554e39d3a38298283.png",
+    "generation_time": 0.0,
+    "size": 9301492,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "c8c39d1ca376ed0c26ce797e0aac69fa76bf329a490b6f83929debe2a9d97bde": {
+    "glb": "https://subnet404.xyz/rounds/0/5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH/submitted/c8c39d1ca376ed0c26ce797e0aac69fa76bf329a490b6f83929debe2a9d97bde.glb",
+    "png": "https://subnet404.xyz/rounds/0/5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH/submitted/c8c39d1ca376ed0c26ce797e0aac69fa76bf329a490b6f83929debe2a9d97bde.png",
+    "generation_time": 0.0,
+    "size": 19523896,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "f868984f6c46bead326f8e80cb9557ecd8ffc48f72689dfbdc5f83413b201f75": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
