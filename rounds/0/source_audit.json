@@ -18,5 +18,15 @@
     "hotkey": "5EU9jUxguB5VBNv7M2QmUzR1WA74VfsHe1bC6xCu5mdc3g98",
     "verdict": "failed",
     "reason": "Repository not found"
+  },
+  {
+    "hotkey": "5GgpGaDxzTyBAME1Ju9ZhUstWj2VTm1n4tAUkRHLi4birQZg",
+    "verdict": "passed",
+    "reason": "No issues found"
+  },
+  {
+    "hotkey": "5FcDQ6Eh3dCvSe5WCqNSkaGYkksEUvjm3Be5y1EbJcuKpTt8",
+    "verdict": "passed",
+    "reason": "Audit skipped as it does not affect the outcome. The next miner outperforms this solution and has already passed the audit."
   }
 ]
