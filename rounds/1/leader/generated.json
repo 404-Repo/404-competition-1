@@ -466,9 +466,9 @@
   "85252e09afdfb83ea746af0c520e3812f37885e1db996032ad47dd20893fa29d": {
     "glb": "https://subnet404.xyz/rounds/1/leader/generated/85252e09afdfb83ea746af0c520e3812f37885e1db996032ad47dd20893fa29d.glb",
     "png": "https://subnet404.xyz/rounds/1/leader/generated/85252e09afdfb83ea746af0c520e3812f37885e1db996032ad47dd20893fa29d.png",
-    "generation_time": 99.08878867700696,
-    "size": 38091656,
-    "attempts": 3,
+    "generation_time": 97.76232059672475,
+    "size": 38091228,
+    "attempts": 4,
     "distance": 0.0
   },
   "c1d998a2a0b16b1903b1bfbbeb9542d6eb6db00cdaf45c8604563a25caca2f26": {
@@ -586,9 +586,9 @@
   "aea8f70c-bfe0-4887-bc8e-f4aec937c214": {
     "glb": "https://subnet404.xyz/rounds/1/leader/generated/aea8f70c-bfe0-4887-bc8e-f4aec937c214.glb",
     "png": "https://subnet404.xyz/rounds/1/leader/generated/aea8f70c-bfe0-4887-bc8e-f4aec937c214.png",
-    "generation_time": 136.8013689611107,
-    "size": 36182848,
-    "attempts": 1,
+    "generation_time": 85.09424058906734,
+    "size": 36140460,
+    "attempts": 3,
     "distance": 0.0
   },
   "0ce83b0697e11d1c3801883b953c39294a9cae91e14c8f944d0a1c7f98c96bfd": {
@@ -658,9 +658,9 @@
   "403e1c199a90191679676e1c0c57d6a5d9226145e93a129fde4abd7edeca174a": {
     "glb": "https://subnet404.xyz/rounds/1/leader/generated/403e1c199a90191679676e1c0c57d6a5d9226145e93a129fde4abd7edeca174a.glb",
     "png": "https://subnet404.xyz/rounds/1/leader/generated/403e1c199a90191679676e1c0c57d6a5d9226145e93a129fde4abd7edeca174a.png",
-    "generation_time": 144.7790679601021,
-    "size": 45427884,
-    "attempts": 2,
+    "generation_time": 141.30098545411602,
+    "size": 45520084,
+    "attempts": 3,
     "distance": 0.0
   },
   "4c137e8c383568e3f640173d05049af3b143f7462f428f01338d9b8493f5d025": {
@@ -834,9 +834,9 @@
   "e8eff42d-cc07-4a56-9da3-10ef0b7a4715": {
     "glb": "https://subnet404.xyz/rounds/1/leader/generated/e8eff42d-cc07-4a56-9da3-10ef0b7a4715.glb",
     "png": "https://subnet404.xyz/rounds/1/leader/generated/e8eff42d-cc07-4a56-9da3-10ef0b7a4715.png",
-    "generation_time": 105.69647692004219,
-    "size": 37509188,
-    "attempts": 1,
+    "generation_time": 98.5289565147832,
+    "size": 37339460,
+    "attempts": 3,
     "distance": 0.0
   },
   "f451b0602a4dffdb91e9a6b7e2663ec3eb4dd2d321013e3cf8c8917632cbf5e0": {
@@ -1020,7 +1020,7 @@
     "png": null,
     "generation_time": 0.0,
     "size": 0,
-    "attempts": 2,
+    "attempts": 3,
     "distance": 0.0
   }
 }
