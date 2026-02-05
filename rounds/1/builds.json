@@ -164,8 +164,8 @@
     "commit": "9ca5355f26ad3fcc9838c9b6b6e2da5865df97b7",
     "revealed_at_block": 7469646,
     "tag": "9ca5355-mesh-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5h9bvdjbyh:9ca5355-mesh-1"
   },
   "5E9YfJF8RwsUmq4RdDWAtXJhq1cRvBDFeTtHrmo1mEHwT3pA": {
     "repo": "yukita1975/bug-free-robot",
@@ -228,8 +228,8 @@
     "commit": "6070329c7853ad3c363afd5e24f2e6fec4552ada",
     "revealed_at_block": 7472837,
     "tag": "6070329-mesh-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hqwnltdce:6070329-mesh-1"
   },
   "5CaHD2FKcuHaEJpTyDaaw9pkbe2RFPsep9nvLksFDAuw2FHG": {
     "repo": "JohnAlfonso/Alive3D-2",
