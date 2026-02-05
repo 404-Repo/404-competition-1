@@ -767,14 +767,6 @@
     "attempts": 2,
     "distance": 0.0
   },
-  "c026e9807773524c6407eb4a341b59d3af8c1c1ada9e1edf6514c93cf4ee9369": {
-    "glb": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0,
-    "attempts": 4,
-    "distance": 0.0
-  },
   "f5de2a7552c3c1926bbe0b3b22ab1a8aee0da17375c27b82e2b85ab2492bb4b6": {
     "glb": "https://subnet404.xyz/rounds/1/leader/generated/f5de2a7552c3c1926bbe0b3b22ab1a8aee0da17375c27b82e2b85ab2492bb4b6.glb",
     "png": "https://subnet404.xyz/rounds/1/leader/generated/f5de2a7552c3c1926bbe0b3b22ab1a8aee0da17375c27b82e2b85ab2492bb4b6.png",
