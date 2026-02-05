@@ -702,5 +702,77 @@
     "size": 36176504,
     "attempts": 1,
     "distance": 0.0
+  },
+  "a8fc137b4ad09347ca5dc1f625471c46e3c2f899c0cb6157bf2d1ff1b786281d": {
+    "glb": "https://subnet404.xyz/rounds/1/leader/generated/a8fc137b4ad09347ca5dc1f625471c46e3c2f899c0cb6157bf2d1ff1b786281d.glb",
+    "png": "https://subnet404.xyz/rounds/1/leader/generated/a8fc137b4ad09347ca5dc1f625471c46e3c2f899c0cb6157bf2d1ff1b786281d.png",
+    "generation_time": 69.20654566213489,
+    "size": 37908076,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "c026e9807773524c6407eb4a341b59d3af8c1c1ada9e1edf6514c93cf4ee9369": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "ec27530da995d02000718e0606ef9e3d5534ce710576486aa43c5eebba5c81ba": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "d5f6b443bcd3fa1a9bc12da3cc58fb0273ea443c212cb1beb5c6ff4b443b0b77": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "5abd860247d9e13a5ba27c4f8b4150655f5a7c936a20e42613a647e04f4fa4ed": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "7d3d35d32e0b78d3a487e8f4bf5c0536b5364a92cfd80a97bbeb75e507ce7355": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "677aecca5495ee75dd7fdb3a5aef895360a7abeac9c1a79062649b2702d21e17": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "f5de2a7552c3c1926bbe0b3b22ab1a8aee0da17375c27b82e2b85ab2492bb4b6": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "a63804caa00f97dcf5c74d40dce4dc2af30480823b645e27edba169825376db7": {
+    "glb": "https://subnet404.xyz/rounds/1/leader/generated/a63804caa00f97dcf5c74d40dce4dc2af30480823b645e27edba169825376db7.glb",
+    "png": "https://subnet404.xyz/rounds/1/leader/generated/a63804caa00f97dcf5c74d40dce4dc2af30480823b645e27edba169825376db7.png",
+    "generation_time": 168.94359144708142,
+    "size": 29773176,
+    "attempts": 1,
+    "distance": 0.0
   }
 }
