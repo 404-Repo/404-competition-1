@@ -768,10 +768,10 @@
     "distance": 0.0
   },
   "c026e9807773524c6407eb4a341b59d3af8c1c1ada9e1edf6514c93cf4ee9369": {
-    "glb": "https://subnet404.xyz/rounds/1/leader/generated/c026e9807773524c6407eb4a341b59d3af8c1c1ada9e1edf6514c93cf4ee9369.glb",
+    "glb": null,
     "png": null,
-    "generation_time": 330.41161401197314,
-    "size": 59338700,
+    "generation_time": 0.0,
+    "size": 0,
     "attempts": 4,
     "distance": 0.0
   },
