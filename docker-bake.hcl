@@ -46,11 +46,8 @@ target "gen404-image" {
   platforms  = ["linux/amd64"]
   context = CONTEXT
   dockerfile = DOCKERFILE
-  args = {
-    GITHUB_USER = GITHUB_USER
-    GITHUB_TOKEN = GITHUB_TOKEN
-  }
   secret = [
+    "id=github_user,env=GITHUB_USER",
     "id=github_token,env=GITHUB_TOKEN"
   ]
   cache-from = split(";", CACHE_FROM)
