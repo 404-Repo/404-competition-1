@@ -1,16 +1,16 @@
 {
   "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL": {
     "repo": "404-Repo/404-base-miner-mesh",
-    "commit": "0caf8774a8a6b4d68eb3b7f14766785737aefcb3",
+    "commit": "bdc1cee95af0628d04efce1a4b81bbfcde92651b",
     "cdn_url": "https://404-gen.b-cdn.net/round-0",
     "revealed_at_block": 7434357,
-    "round": "base-miner-5"
+    "round": "base-miner-6"
   },
   "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88ysdasasd": {
     "repo": "404-Repo/404-base-miner-mesh",
-    "commit": "0caf8774a8a6b4d68eb3b7f14766785737aefcb3",
+    "commit": "bdc1cee95af0628d04efce1a4b81bbfcde92651b",
     "cdn_url": "https://404-gen.b-cdn.net/round-0",
     "revealed_at_block": 7434357,
-    "round": "base-miner-5"
+    "round": "base-miner-6"
   }
 }
