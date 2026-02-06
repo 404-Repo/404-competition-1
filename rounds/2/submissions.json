@@ -4,13 +4,20 @@
     "commit": "bdc1cee95af0628d04efce1a4b81bbfcde92651b",
     "cdn_url": "https://404-gen.b-cdn.net/round-0",
     "revealed_at_block": 7434357,
-    "round": "base-miner-6"
+    "round": "base-miner-7"
   },
-  "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88ysdasasd": {
+  "5EhasrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88ysdasa": {
     "repo": "404-Repo/404-base-miner-mesh",
     "commit": "bdc1cee95af0628d04efce1a4b81bbfcde92651b",
     "cdn_url": "https://404-gen.b-cdn.net/round-0",
     "revealed_at_block": 7434357,
-    "round": "base-miner-6"
+    "round": "base-miner-7"
+  },
+  "5EwasrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88ysdasa": {
+    "repo": "404-Repo/404-base-miner-mesh",
+    "commit": "bdc1cee95af0628d04efce1a4b81bbfcde92651b",
+    "cdn_url": "https://404-gen.b-cdn.net/round-0",
+    "revealed_at_block": 7434357,
+    "round": "base-miner-7"
   }
 }
