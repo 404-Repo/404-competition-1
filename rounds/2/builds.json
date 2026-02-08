@@ -4,7 +4,7 @@
     "commit": "7f60c637d66079a1df86e48f87441487350fd1d2",
     "revealed_at_block": 7476094,
     "tag": "7f60c63-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GGsuLzc5aTW6n6CWtrncf4aYmePuVKHDemjdgHQyqY5ea1Y": {
@@ -20,7 +20,7 @@
     "commit": "5c22e9662b77a0d8e7940197a5caa885704bfb99",
     "revealed_at_block": 7478291,
     "tag": "5c22e96-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CwGtXp12GZnUHwQYJcdkVgZeaBVmMXy34spKkYy3aLcc9Ti": {
@@ -28,7 +28,7 @@
     "commit": "3e497759cc82270dfc49ba515cd69240243900a5",
     "revealed_at_block": 7478296,
     "tag": "3e49775-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GmnqjwWjdcA41g3wZtWwkrK2EJKb2Adq5Y5PHWqJoe7gVGL": {
@@ -52,7 +52,7 @@
     "commit": "851274eff6aa5b487ff33892d99c60a79e6b4247",
     "revealed_at_block": 7478305,
     "tag": "851274e-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH": {
@@ -60,7 +60,7 @@
     "commit": "aa10f6f21a33467c6a31d25d7569ad4c8fd49f62",
     "revealed_at_block": 7478305,
     "tag": "aa10f6f-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FefWwMu1yF6Gjk6preRyvuQsnxS57upHBpkd9u5B9pePzvX": {
@@ -76,7 +76,7 @@
     "commit": "851274eff6aa5b487ff33892d99c60a79e6b4247",
     "revealed_at_block": 7478318,
     "tag": "851274e-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EZpt79UEt8QRxbHDFaiup4pg9f1yYUWpJwYuFt3NfF7TzJF": {
@@ -84,7 +84,7 @@
     "commit": "3e497759cc82270dfc49ba515cd69240243900a5",
     "revealed_at_block": 7478319,
     "tag": "3e49775-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Fq1Sd89raFdT6CTcUz9fn71RUr5se8rhyogDDQhnfSQFyEY": {
@@ -124,7 +124,7 @@
     "commit": "aa10f6f21a33467c6a31d25d7569ad4c8fd49f62",
     "revealed_at_block": 7478337,
     "tag": "aa10f6f-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5E7BUrU7gbpKTBka78kDdca3NkoZfLVR9jfY8dzd16TzTHAF": {
@@ -132,7 +132,7 @@
     "commit": "aa10f6f21a33467c6a31d25d7569ad4c8fd49f62",
     "revealed_at_block": 7478341,
     "tag": "aa10f6f-mesh-2",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5F1bRcTrAsj2xX6B9A6f61NZd3AinDbhN7yemX8iVbXxS1uP": {
