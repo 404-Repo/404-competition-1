@@ -1022,5 +1022,13 @@
     "size": 35552344,
     "attempts": 0,
     "distance": 0.0
+  },
+  "16f3a552d897fc1bef255fc735104c430be577f3f12e922b0f94f5454055f042": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
