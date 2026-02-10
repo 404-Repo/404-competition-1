@@ -1038,5 +1038,13 @@
     "size": 0,
     "attempts": 0,
     "distance": 0.0
+  },
+  "bcacc19947ce16f3ee154fe08ea32c8b6ae2c85bd91a92369e227bc1f3a98401": {
+    "glb": "https://subnet404.xyz/tests/0/5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL/submitted/bcacc19947ce16f3ee154fe08ea32c8b6ae2c85bd91a92369e227bc1f3a98401.glb",
+    "png": "https://subnet404.xyz/tests/0/5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL/submitted/bcacc19947ce16f3ee154fe08ea32c8b6ae2c85bd91a92369e227bc1f3a98401.png",
+    "generation_time": 0.0,
+    "size": 40950604,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
