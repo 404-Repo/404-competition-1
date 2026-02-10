@@ -1030,5 +1030,13 @@
     "size": 0,
     "attempts": 0,
     "distance": 0.0
+  },
+  "3830b7a525928c4d321975e550f325bee0c4d85cea2b0fab8a8388d945beaf2c": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
