@@ -158,5 +158,45 @@
     "size": 37591112,
     "attempts": 1,
     "distance": 0.0
+  },
+  "363159900490a7a3ed419eb86b2fa4d7224e2d70cd04ba8eb1059a29159e96e5": {
+    "glb": "https://subnet404.xyz/rounds/3/leader/generated/363159900490a7a3ed419eb86b2fa4d7224e2d70cd04ba8eb1059a29159e96e5.glb",
+    "png": "https://subnet404.xyz/rounds/3/leader/generated/363159900490a7a3ed419eb86b2fa4d7224e2d70cd04ba8eb1059a29159e96e5.png",
+    "generation_time": 184.45915073668584,
+    "size": 40626340,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "88feff8dd81bec4e7b94d60ceed91cf50c42246c8e5051bb52c5b015d77fa102": {
+    "glb": "https://subnet404.xyz/rounds/3/leader/generated/88feff8dd81bec4e7b94d60ceed91cf50c42246c8e5051bb52c5b015d77fa102.glb",
+    "png": "https://subnet404.xyz/rounds/3/leader/generated/88feff8dd81bec4e7b94d60ceed91cf50c42246c8e5051bb52c5b015d77fa102.png",
+    "generation_time": 156.05288988584653,
+    "size": 37954304,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "ff5aa39fab62a9bb4dc7e7bac24d14cd3d27b14d4b6246e80ede6fd3397411da": {
+    "glb": "https://subnet404.xyz/rounds/3/leader/generated/ff5aa39fab62a9bb4dc7e7bac24d14cd3d27b14d4b6246e80ede6fd3397411da.glb",
+    "png": "https://subnet404.xyz/rounds/3/leader/generated/ff5aa39fab62a9bb4dc7e7bac24d14cd3d27b14d4b6246e80ede6fd3397411da.png",
+    "generation_time": 168.00279428996146,
+    "size": 38915876,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "0b37a2377d4442ed231cc1512daae779397df6f8615d330b03dbb67b471b369c": {
+    "glb": "https://subnet404.xyz/rounds/3/leader/generated/0b37a2377d4442ed231cc1512daae779397df6f8615d330b03dbb67b471b369c.glb",
+    "png": "https://subnet404.xyz/rounds/3/leader/generated/0b37a2377d4442ed231cc1512daae779397df6f8615d330b03dbb67b471b369c.png",
+    "generation_time": 108.04833711916581,
+    "size": 34637088,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "6848d48d8a1c074cd3111a32aacf4a87ac3bb6b0277eafe234b2fa5bbda93b68": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
   }
 }
