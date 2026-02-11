@@ -260,7 +260,7 @@
     "commit": "3d104aa2b43f867c0f330411b2528f20035d1374",
     "revealed_at_block": 7518498,
     "tag": "3d104aa-mesh-3",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5DcQs3LcdM2SQDTNb1sfPqrGWKBh9sgk2G97RhQzvqsZup2w": {
