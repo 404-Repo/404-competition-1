@@ -6,5 +6,13 @@
     "size": 43540748,
     "attempts": 1,
     "distance": 0.0010503530502319336
+  },
+  "19d5b26c97d59f6d6de1947465c1106d1ce7fa80d1e998d15099d952955960a7": {
+    "glb": "https://subnet404.xyz/rounds/3/5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP/generated/19d5b26c97d59f6d6de1947465c1106d1ce7fa80d1e998d15099d952955960a7.glb",
+    "png": "https://subnet404.xyz/rounds/3/5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP/generated/19d5b26c97d59f6d6de1947465c1106d1ce7fa80d1e998d15099d952955960a7.png",
+    "generation_time": 143.96144284075126,
+    "size": 38625148,
+    "attempts": 1,
+    "distance": 0.00026875734329223633
   }
 }
