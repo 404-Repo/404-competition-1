@@ -28,8 +28,8 @@
     "commit": "3e497759cc82270dfc49ba515cd69240243900a5",
     "revealed_at_block": 7498761,
     "tag": "3e49775-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ezpt79uet:3e49775-mesh-3"
   },
   "5FePECsVyZnnuoRmpZMsR99k88ysUsWcMaBfhjjNnYT7WM1h": {
     "repo": "yukita1975/bug-free-robot",
@@ -44,7 +44,7 @@
     "commit": "24581f441d22695214d51c80ab6ce4ebf1a020ae",
     "revealed_at_block": 7498761,
     "tag": "24581f4-mesh-3",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DFHd4oBNQPf6PS65qD3HCopaVHBMw9cMdnGZNjqDgPwJLXf": {
@@ -60,7 +60,7 @@
     "commit": "208872ba2a4fe1957219cebc769d675cb09653f3",
     "revealed_at_block": 7498774,
     "tag": "208872b-mesh-3",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5E7BUrU7gbpKTBka78kDdca3NkoZfLVR9jfY8dzd16TzTHAF": {
@@ -116,8 +116,8 @@
     "commit": "c64c573016ba5e0c58bafe4630501fbd3fbfbb55",
     "revealed_at_block": 7512735,
     "tag": "c64c573-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fefwwmu1y:c64c573-mesh-3"
   },
   "5EU1ViScfctLpaFGwL1uSQFCDvoyCfLRwYxTDtR37x7HteDH": {
     "repo": "christop88/literate-chainsaw",
@@ -140,8 +140,8 @@
     "commit": "dbedde5a9330439492d10e5f3654ee049d1a4726",
     "revealed_at_block": 7513569,
     "tag": "dbedde5-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5e9yfjf8rw:dbedde5-mesh-3"
   },
   "5CwGtXp12GZnUHwQYJcdkVgZeaBVmMXy34spKkYy3aLcc9Ti": {
     "repo": "christop88/cream",
@@ -156,7 +156,7 @@
     "commit": "9c7c515b857e03d87b70d0cd8e7c9001ef4d058b",
     "revealed_at_block": 7513576,
     "tag": "9c7c515-mesh-3",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GGsuLzc5aTW6n6CWtrncf4aYmePuVKHDemjdgHQyqY5ea1Y": {
@@ -164,8 +164,8 @@
     "commit": "cc9eedb9d2be6b5c3f44012720ef6c0ec6861798",
     "revealed_at_block": 7513576,
     "tag": "cc9eedb-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ggsulzc5a:cc9eedb-mesh-3"
   },
   "5E5A9q65xzJm8VToNSA898tG4AhjL7H6Ssenmrv3SDn3EtJ8": {
     "repo": "christop88/cake",
@@ -180,7 +180,7 @@
     "commit": "69b6c221ff8429e95856eecff5b4bfb7bfdec8c8",
     "revealed_at_block": 7514182,
     "tag": "69b6c22-mesh-3",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HjdXk6yrJBGrGGa6gdfAvRjg36NZj9nmeXYsyisja63AVZa": {
@@ -212,8 +212,8 @@
     "commit": "8c8e5a262b85477caafc826057ac9f778938d84f",
     "revealed_at_block": 7514733,
     "tag": "8c8e5a2-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gckseffmq:8c8e5a2-mesh-3"
   },
   "5Ebm5cRFAzkHGtq3myyvnL3w6GVSPrAy4LY6HSFMNdQLnomj": {
     "repo": "itwm13/404-BMMM",
@@ -236,7 +236,7 @@
     "commit": "0969db8dbfd4cdb298b7bae39dcfd094ee9f07cd",
     "revealed_at_block": 7518427,
     "tag": "0969db8-mesh-3",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FeVpzoXk4zJyX32PfzyTy2eg1aGN6esg9T9UHK4w49Ta7LJ": {
@@ -244,7 +244,7 @@
     "commit": "8c8e5a262b85477caafc826057ac9f778938d84f",
     "revealed_at_block": 7518445,
     "tag": "8c8e5a2-mesh-3",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5CZztA7b6RWpmm94YPt4mXQzmdfewBgcKobE4TqknQPdyk1m": {
@@ -276,7 +276,7 @@
     "commit": "e769c401b01ade771d26d8fe4a36179e76f57024",
     "revealed_at_block": 7518957,
     "tag": "e769c40-mesh-3",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Fq1Sd89raFdT6CTcUz9fn71RUr5se8rhyogDDQhnfSQFyEY": {
