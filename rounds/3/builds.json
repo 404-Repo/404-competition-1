@@ -252,7 +252,7 @@
     "commit": "8cd1bb7f98917802246422d98949e026b3b57bbf",
     "revealed_at_block": 7518487,
     "tag": "8cd1bb7-mesh-3",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5CodJrac9gXRCbzzm5Bdi1BkFzotcvPjwXkQnGmttPdztzPH": {
