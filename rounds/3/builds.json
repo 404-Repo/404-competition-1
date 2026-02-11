@@ -44,8 +44,8 @@
     "commit": "24581f441d22695214d51c80ab6ce4ebf1a020ae",
     "revealed_at_block": 7498761,
     "tag": "24581f4-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gv4mjxcuk:24581f4-mesh-3"
   },
   "5DFHd4oBNQPf6PS65qD3HCopaVHBMw9cMdnGZNjqDgPwJLXf": {
     "repo": "yukita1975/super-duper-funicular",
@@ -156,8 +156,8 @@
     "commit": "9c7c515b857e03d87b70d0cd8e7c9001ef4d058b",
     "revealed_at_block": 7513576,
     "tag": "9c7c515-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5h9bvdjbyh:9c7c515-mesh-3"
   },
   "5GGsuLzc5aTW6n6CWtrncf4aYmePuVKHDemjdgHQyqY5ea1Y": {
     "repo": "christop88/crab",
@@ -180,8 +180,8 @@
     "commit": "69b6c221ff8429e95856eecff5b4bfb7bfdec8c8",
     "revealed_at_block": 7514182,
     "tag": "69b6c22-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5h8tbgxeef:69b6c22-mesh-3"
   },
   "5HjdXk6yrJBGrGGa6gdfAvRjg36NZj9nmeXYsyisja63AVZa": {
     "repo": "Uglejo/laughing-doodle",
@@ -276,16 +276,16 @@
     "commit": "e769c401b01ade771d26d8fe4a36179e76f57024",
     "revealed_at_block": 7518957,
     "tag": "e769c40-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gmnqjwwjd:e769c40-mesh-3"
   },
   "5Fq1Sd89raFdT6CTcUz9fn71RUr5se8rhyogDDQhnfSQFyEY": {
     "repo": "christop88/cross",
     "commit": "441ce0c4304f5807c32c2936c4e871fcd28e2bf8",
     "revealed_at_block": 7518957,
     "tag": "441ce0c-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fq1sd89ra:441ce0c-mesh-3"
   },
   "5DMGiRs5XvJZE6hnWa3hNS4eYTXkpRKfzSbg348h2jZ88kZF": {
     "repo": "mokabetrade/voxali",
