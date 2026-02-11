@@ -90,9 +90,9 @@
   "ae53247f0077b002945a610f3d64f1a2ea5ea96ec6561707d0f4775f2443cfa7": {
     "glb": "https://subnet404.xyz/tests/3/leader/ae53247f0077b002945a610f3d64f1a2ea5ea96ec6561707d0f4775f2443cfa7.glb",
     "png": "https://subnet404.xyz/tests/3/leader/ae53247f0077b002945a610f3d64f1a2ea5ea96ec6561707d0f4775f2443cfa7.png",
-    "generation_time": 134.20342308981344,
-    "size": 42995032,
-    "attempts": 1,
+    "generation_time": 99.42615064512938,
+    "size": 43103848,
+    "attempts": 4,
     "distance": 0.0
   },
   "41b47c83ef9e514f765d21aa654f778b645bf58bd18f3dbff242b081e33cc832": {
@@ -458,9 +458,9 @@
   "7d4cca46dde0d2785eb458ee2bb4028ff042404f3f119349b783f2bb1772a094": {
     "glb": "https://subnet404.xyz/tests/3/leader/7d4cca46dde0d2785eb458ee2bb4028ff042404f3f119349b783f2bb1772a094.glb",
     "png": "https://subnet404.xyz/tests/3/leader/7d4cca46dde0d2785eb458ee2bb4028ff042404f3f119349b783f2bb1772a094.png",
-    "generation_time": 255.89699325338006,
-    "size": 49836204,
-    "attempts": 1,
+    "generation_time": 250.7240635016933,
+    "size": 49968784,
+    "attempts": 3,
     "distance": 0.0
   },
   "a94c544f08eee2a35d58d2cf439427dd94416992cfa5f0c0af2786a0cfab96dc": {
@@ -514,9 +514,9 @@
   "741925555594d19993895a55a00fcd4f878896047dc65fbd6ab5d0ef3dab3cbe": {
     "glb": "https://subnet404.xyz/tests/3/leader/741925555594d19993895a55a00fcd4f878896047dc65fbd6ab5d0ef3dab3cbe.glb",
     "png": "https://subnet404.xyz/tests/3/leader/741925555594d19993895a55a00fcd4f878896047dc65fbd6ab5d0ef3dab3cbe.png",
-    "generation_time": 125.3872905112803,
-    "size": 36984184,
-    "attempts": 1,
+    "generation_time": 57.427812789101154,
+    "size": 38130288,
+    "attempts": 4,
     "distance": 0.0
   },
   "86f2347c5936ad678429f9216dc47c8889c2219de6b9a5765b1e5494f166a51c": {
@@ -594,9 +594,9 @@
   "e10292fa19f9c07d070a023c7c318a6be007adf7346d4b8448ab38d33fcc79b4": {
     "glb": "https://subnet404.xyz/tests/3/leader/e10292fa19f9c07d070a023c7c318a6be007adf7346d4b8448ab38d33fcc79b4.glb",
     "png": "https://subnet404.xyz/tests/3/leader/e10292fa19f9c07d070a023c7c318a6be007adf7346d4b8448ab38d33fcc79b4.png",
-    "generation_time": 139.9869244657457,
-    "size": 35986320,
-    "attempts": 1,
+    "generation_time": 39.17829962493852,
+    "size": 36198716,
+    "attempts": 4,
     "distance": 0.0
   },
   "5717e3ab7fde43107ffaad257d8bcbcf6a40c290aa544bd60811223281c49d71": {
@@ -650,9 +650,9 @@
   "9f2e9a499860eda667edb25ff9415ebc79b1ec3758e645bc4da880e23b20c424": {
     "glb": "https://subnet404.xyz/tests/3/leader/9f2e9a499860eda667edb25ff9415ebc79b1ec3758e645bc4da880e23b20c424.glb",
     "png": "https://subnet404.xyz/tests/3/leader/9f2e9a499860eda667edb25ff9415ebc79b1ec3758e645bc4da880e23b20c424.png",
-    "generation_time": 324.6526927310042,
-    "size": 39231696,
-    "attempts": 1,
+    "generation_time": 260.293820111081,
+    "size": 38820548,
+    "attempts": 3,
     "distance": 0.0
   },
   "8b67af9481022ecb17aedd2c01bb7b93ec7fd1ae0ab6ca3fc4adb1b4266aff78": {
@@ -866,9 +866,9 @@
   "1bf43a4a1d3200511bd6280f7d211b4face07d74880e75894527fc5e10f927fd": {
     "glb": "https://subnet404.xyz/tests/3/leader/1bf43a4a1d3200511bd6280f7d211b4face07d74880e75894527fc5e10f927fd.glb",
     "png": "https://subnet404.xyz/tests/3/leader/1bf43a4a1d3200511bd6280f7d211b4face07d74880e75894527fc5e10f927fd.png",
-    "generation_time": 90.32513280864805,
-    "size": 34893388,
-    "attempts": 1,
+    "generation_time": 40.93866268824786,
+    "size": 35245604,
+    "attempts": 3,
     "distance": 0.0
   },
   "da8a6a34c069fd21598b507e4e7f43d9dd1fffae91112ac4b31ae3bfd8cc8382": {
@@ -1018,9 +1018,9 @@
   "28a6a4d42bcf44162f55bba49ded4aed40a2e4895e64533e933d4e899dbb2346": {
     "glb": "https://subnet404.xyz/tests/3/leader/28a6a4d42bcf44162f55bba49ded4aed40a2e4895e64533e933d4e899dbb2346.glb",
     "png": "https://subnet404.xyz/tests/3/leader/28a6a4d42bcf44162f55bba49ded4aed40a2e4895e64533e933d4e899dbb2346.png",
-    "generation_time": 270.1543363411911,
-    "size": 51000500,
-    "attempts": 2,
+    "generation_time": 228.5223671719432,
+    "size": 50631272,
+    "attempts": 3,
     "distance": 0.0
   }
 }
