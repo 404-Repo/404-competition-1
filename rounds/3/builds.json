@@ -188,8 +188,8 @@
     "commit": "a8a1ee3afc4840e0079fb7baf569359662bb9b36",
     "revealed_at_block": 7514183,
     "tag": "a8a1ee3-mesh-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hjdxk6yrj:a8a1ee3-mesh-3"
   },
   "5CXvBgQnppdt15ahvxoWiy12442eyswD6eayRuMVgbzvLCWT": {
     "repo": "jyotinayarman/crustacean-collosal",

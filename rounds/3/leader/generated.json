@@ -446,5 +446,61 @@
     "size": 34929264,
     "attempts": 1,
     "distance": 0.0
+  },
+  "741925555594d19993895a55a00fcd4f878896047dc65fbd6ab5d0ef3dab3cbe": {
+    "glb": "https://subnet404.xyz/rounds/3/leader/generated/741925555594d19993895a55a00fcd4f878896047dc65fbd6ab5d0ef3dab3cbe.glb",
+    "png": "https://subnet404.xyz/rounds/3/leader/generated/741925555594d19993895a55a00fcd4f878896047dc65fbd6ab5d0ef3dab3cbe.png",
+    "generation_time": 74.90439440123737,
+    "size": 37718640,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "e19d91544a46f19dcc9512c9b0bc0a2469c88da8d3d0f200458ccc004bf6b7e1": {
+    "glb": "https://subnet404.xyz/rounds/3/leader/generated/e19d91544a46f19dcc9512c9b0bc0a2469c88da8d3d0f200458ccc004bf6b7e1.glb",
+    "png": "https://subnet404.xyz/rounds/3/leader/generated/e19d91544a46f19dcc9512c9b0bc0a2469c88da8d3d0f200458ccc004bf6b7e1.png",
+    "generation_time": 145.3395471186377,
+    "size": 42535108,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "ffd793dcbe3b8590bcfd4aa6804fc0d75ad402f17e6fb1558535fde1361f87db": {
+    "glb": "https://subnet404.xyz/rounds/3/leader/generated/ffd793dcbe3b8590bcfd4aa6804fc0d75ad402f17e6fb1558535fde1361f87db.glb",
+    "png": "https://subnet404.xyz/rounds/3/leader/generated/ffd793dcbe3b8590bcfd4aa6804fc0d75ad402f17e6fb1558535fde1361f87db.png",
+    "generation_time": 266.0006415308453,
+    "size": 44992472,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "7d4cca46dde0d2785eb458ee2bb4028ff042404f3f119349b783f2bb1772a094": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "4b7b81e96866ce5698da185698eef0e58dc02d30e7a3916810fbcd701d36b12f": {
+    "glb": "https://subnet404.xyz/rounds/3/leader/generated/4b7b81e96866ce5698da185698eef0e58dc02d30e7a3916810fbcd701d36b12f.glb",
+    "png": "https://subnet404.xyz/rounds/3/leader/generated/4b7b81e96866ce5698da185698eef0e58dc02d30e7a3916810fbcd701d36b12f.png",
+    "generation_time": 155.31104941433296,
+    "size": 39590284,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "7b0720a20f2a2c94861708112e7e5cd2dbeeaf3087eab28c862a4258a5a2d986": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "0284b313e90abc3bce18b0e29114e62fd914011b25943730784ac3bc343e932c": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
   }
 }
