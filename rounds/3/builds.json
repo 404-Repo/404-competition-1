@@ -20,7 +20,7 @@
     "commit": "8202271d31b125d44daa1ae358bef7a099d44390",
     "revealed_at_block": 7498726,
     "tag": "8202271-mesh-3",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5EZpt79UEt8QRxbHDFaiup4pg9f1yYUWpJwYuFt3NfF7TzJF": {
@@ -132,7 +132,7 @@
     "commit": "a28a09e7d85084355480d017ff373027c34ccf8d",
     "revealed_at_block": 7513569,
     "tag": "a28a09e-mesh-3",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5E9YfJF8RwsUmq4RdDWAtXJhq1cRvBDFeTtHrmo1mEHwT3pA": {
@@ -228,8 +228,8 @@
     "commit": "1022c8aa562812c9d5b93d2e108572c18de6e844",
     "revealed_at_block": 7518406,
     "tag": "1022c8a-mesh-3",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gh72o2fzu:1022c8a-mesh-3"
   },
   "5HNgV24igSZcrocncRFEu8p93J5sg6bKSAhAVrbPg2gypVRF": {
     "repo": "jyotinayarman/crustacean-avenger",
@@ -252,7 +252,7 @@
     "commit": "8cd1bb7f98917802246422d98949e026b3b57bbf",
     "revealed_at_block": 7518487,
     "tag": "8cd1bb7-mesh-3",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5CodJrac9gXRCbzzm5Bdi1BkFzotcvPjwXkQnGmttPdztzPH": {
@@ -260,7 +260,7 @@
     "commit": "3d104aa2b43f867c0f330411b2528f20035d1374",
     "revealed_at_block": 7518498,
     "tag": "3d104aa-mesh-3",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5DcQs3LcdM2SQDTNb1sfPqrGWKBh9sgk2G97RhQzvqsZup2w": {
@@ -316,7 +316,7 @@
     "commit": "e1ca08298b9d74dc532c24bf2cfccff2f8d7c7ca",
     "revealed_at_block": 7519158,
     "tag": "e1ca082-mesh-3",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5ERU1BjuwJxq5pcdrE7gMMpJPwBcAkXx8rba698Zg2Bt618E": {
