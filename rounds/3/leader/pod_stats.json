@@ -43,5 +43,35 @@
     "retry_cumulative_delta": -63.775953389998904,
     "retry_delta_count": 1,
     "termination_reason": "1 failures + 7 overtimes >= 8"
+  },
+  "miner-03-leader-2": {
+    "pod_id": "miner-03-leader-2",
+    "processed": 63,
+    "successful": 57,
+    "hard_failed": 1,
+    "hard_overtime": 5,
+    "time_min": 28.932946630000515,
+    "time_max": 164.65634070100168,
+    "time_avg": 86.42083000064149,
+    "time_median": 75.97867277399928,
+    "marked_bad": false,
+    "retry_cumulative_delta": -316.1218421989961,
+    "retry_delta_count": 3,
+    "termination_reason": "no work available"
+  },
+  "miner-03-leader-4": {
+    "pod_id": "miner-03-leader-4",
+    "processed": 20,
+    "successful": 12,
+    "hard_failed": 2,
+    "hard_overtime": 6,
+    "time_min": 41.24063920200206,
+    "time_max": 154.4570963110018,
+    "time_avg": 83.74732671933391,
+    "time_median": 75.02647017550044,
+    "marked_bad": true,
+    "retry_cumulative_delta": 0.0,
+    "retry_delta_count": 0,
+    "termination_reason": "2 failures + 6 overtimes >= 8"
   }
 }
