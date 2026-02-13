@@ -1,0 +1,32 @@
+{
+  "miner-03-5f4hanqjax-1": {
+    "pod_id": "miner-03-5f4hanqjax-1",
+    "processed": 8,
+    "successful": 7,
+    "hard_failed": 0,
+    "hard_overtime": 1,
+    "time_min": 65.15627879500062,
+    "time_max": 134.60772180599997,
+    "time_avg": 95.97198245871394,
+    "time_median": 88.10063436199925,
+    "marked_bad": false,
+    "retry_cumulative_delta": 0.0,
+    "retry_delta_count": 0,
+    "termination_reason": "no work available"
+  },
+  "miner-03-5f4hanqjax-2": {
+    "pod_id": "miner-03-5f4hanqjax-2",
+    "processed": 4,
+    "successful": 2,
+    "hard_failed": 0,
+    "hard_overtime": 2,
+    "time_min": 147.65541989999838,
+    "time_max": 151.6696186299996,
+    "time_avg": 149.662519264999,
+    "time_median": 149.662519264999,
+    "marked_bad": false,
+    "retry_cumulative_delta": 0.0,
+    "retry_delta_count": 0,
+    "termination_reason": "no work available"
+  }
+}
