@@ -298,9 +298,9 @@
   "a969845255ea7d5573a2c2160fcb91d519047e065834f843b7285cf512a9f112": {
     "glb": "https://subnet404.xyz/tests/3/leader/a969845255ea7d5573a2c2160fcb91d519047e065834f843b7285cf512a9f112.glb",
     "png": "https://subnet404.xyz/tests/3/leader/a969845255ea7d5573a2c2160fcb91d519047e065834f843b7285cf512a9f112.png",
-    "generation_time": 104.45226814597845,
-    "size": 38922060,
-    "attempts": 1,
+    "generation_time": 102.62117310101166,
+    "size": 39013652,
+    "attempts": 2,
     "distance": 0.0
   },
   "b1394e406748b94efafff63bff38fb7c29a4a0929f2c32803218d3dcae15f3c7": {
