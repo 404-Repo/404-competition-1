@@ -28,5 +28,20 @@
     "retry_cumulative_delta": 0.0,
     "retry_delta_count": 0,
     "termination_reason": "rolling median 130.4s > 120.0s"
+  },
+  "miner-03-leader-0": {
+    "pod_id": "miner-03-leader-0",
+    "processed": 63,
+    "successful": 54,
+    "hard_failed": 1,
+    "hard_overtime": 8,
+    "time_min": 36.17202680099945,
+    "time_max": 154.47887687799994,
+    "time_avg": 78.26119810637749,
+    "time_median": 72.22255766200033,
+    "marked_bad": true,
+    "retry_cumulative_delta": -63.775953389998904,
+    "retry_delta_count": 1,
+    "termination_reason": "1 failures + 7 overtimes >= 8"
   }
 }
