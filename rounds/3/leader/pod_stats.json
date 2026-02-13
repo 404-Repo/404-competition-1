@@ -1,0 +1,17 @@
+{
+  "miner-03-leader-1": {
+    "pod_id": "miner-03-leader-1",
+    "processed": 16,
+    "successful": 10,
+    "hard_failed": 3,
+    "hard_overtime": 3,
+    "time_min": 47.85266642299757,
+    "time_max": 175.70267882199914,
+    "time_avg": 132.58696152549928,
+    "time_median": 142.31348199249987,
+    "marked_bad": true,
+    "retry_cumulative_delta": 0.0,
+    "retry_delta_count": 0,
+    "termination_reason": "rolling median 157.3s > 120.0s"
+  }
+}
