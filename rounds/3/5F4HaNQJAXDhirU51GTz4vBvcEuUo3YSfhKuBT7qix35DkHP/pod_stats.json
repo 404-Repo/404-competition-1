@@ -210,5 +210,41 @@
     "retry_cumulative_delta": 0.0,
     "retry_delta_count": 0,
     "termination_reason": "no work available"
+  },
+  "miner-03-5f4hanqjax-5": {
+    "pod_id": "miner-03-5f4hanqjax-5",
+    "processed": 0,
+    "successful": 0,
+    "hard_failed": 0,
+    "hard_overtime": 0,
+    "performance_samples": [],
+    "marked_bad": false,
+    "retry_cumulative_delta": 0.0,
+    "retry_delta_count": 0,
+    "termination_reason": "no work available"
+  },
+  "miner-03-5f4hanqjax-6": {
+    "pod_id": "miner-03-5f4hanqjax-6",
+    "processed": 0,
+    "successful": 0,
+    "hard_failed": 0,
+    "hard_overtime": 0,
+    "performance_samples": [],
+    "marked_bad": false,
+    "retry_cumulative_delta": 0.0,
+    "retry_delta_count": 0,
+    "termination_reason": "no work available"
+  },
+  "miner-03-5f4hanqjax-7": {
+    "pod_id": "miner-03-5f4hanqjax-7",
+    "processed": 0,
+    "successful": 0,
+    "hard_failed": 0,
+    "hard_overtime": 0,
+    "performance_samples": [],
+    "marked_bad": false,
+    "retry_cumulative_delta": 0.0,
+    "retry_delta_count": 0,
+    "termination_reason": "no work available"
   }
 }
