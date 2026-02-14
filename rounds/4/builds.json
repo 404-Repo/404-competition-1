@@ -12,7 +12,7 @@
     "commit": "71ceccd7c052a6b18ba45171b055022dd45bf5e5",
     "revealed_at_block": 7522608,
     "tag": "71ceccd-mesh-4",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5GgpGaDxzTyBAME1Ju9ZhUstWj2VTm1n4tAUkRHLi4birQZg": {
@@ -20,8 +20,8 @@
     "commit": "a28a09e7d85084355480d017ff373027c34ccf8d",
     "revealed_at_block": 7526294,
     "tag": "a28a09e-mesh-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ggpgadxzt:a28a09e-mesh-4"
   },
   "5E9YfJF8RwsUmq4RdDWAtXJhq1cRvBDFeTtHrmo1mEHwT3pA": {
     "repo": "christop88/hit-miss",
@@ -44,8 +44,8 @@
     "commit": "c64c573016ba5e0c58bafe4630501fbd3fbfbb55",
     "revealed_at_block": 7526687,
     "tag": "c64c573-mesh-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fefwwmu1y:c64c573-mesh-4"
   },
   "5DcQs3LcdM2SQDTNb1sfPqrGWKBh9sgk2G97RhQzvqsZup2w": {
     "repo": "christop88/crew",
@@ -60,8 +60,8 @@
     "commit": "441ce0c4304f5807c32c2936c4e871fcd28e2bf8",
     "revealed_at_block": 7526717,
     "tag": "441ce0c-mesh-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fq1sd89ra:441ce0c-mesh-4"
   },
   "5Ebm5cRFAzkHGtq3myyvnL3w6GVSPrAy4LY6HSFMNdQLnomj": {
     "repo": "itwm13/404-BMMM",
@@ -76,16 +76,16 @@
     "commit": "24581f441d22695214d51c80ab6ce4ebf1a020ae",
     "revealed_at_block": 7526768,
     "tag": "24581f4-mesh-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gv4mjxcuk:24581f4-mesh-4"
   },
   "5Gv3cZBdTfTprhcPGwaE8gdFUNworEW2Kp17aJdd1UsCKFWu": {
     "repo": "yukita1975/refactored-octo-memory",
     "commit": "208872ba2a4fe1957219cebc769d675cb09653f3",
     "revealed_at_block": 7526786,
     "tag": "208872b-mesh-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gv3czbdtf:208872b-mesh-4"
   },
   "5DFHd4oBNQPf6PS65qD3HCopaVHBMw9cMdnGZNjqDgPwJLXf": {
     "repo": "yukita1975/super-duper-funicular",
@@ -132,16 +132,16 @@
     "commit": "96c31cedb4f53f14db46153c7da2953b2d01b40d",
     "revealed_at_block": 7527537,
     "tag": "96c31ce-mesh-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gtrip78cy:96c31ce-mesh-4"
   },
   "5GGsuLzc5aTW6n6CWtrncf4aYmePuVKHDemjdgHQyqY5ea1Y": {
     "repo": "gray-apple/idea2",
     "commit": "54a4b6063b6546d9ddab22d81d617469cbb2b1fa",
     "revealed_at_block": 7527537,
     "tag": "54a4b60-mesh-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ggsulzc5a:54a4b60-mesh-4"
   },
   "5Dhie1cz1a987kPFkvsVwxjKEg2uUMbSgm5N5vq6Drr8mDFH": {
     "repo": "kostik46/404-base-miner-mesh-multiview-v4",
@@ -228,8 +228,8 @@
     "commit": "0969db8dbfd4cdb298b7bae39dcfd094ee9f07cd",
     "revealed_at_block": 7540546,
     "tag": "0969db8-mesh-4",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hsx9uf4ra:0969db8-mesh-4"
   },
   "5GH72o2fzUNd9FZk86qGKJ9wmWfTQhqXXecUN8HB7cF1mY5U": {
     "repo": "jyotinayarman/crustacean-island",
@@ -244,8 +244,8 @@
     "commit": "0969db8dbfd4cdb298b7bae39dcfd094ee9f07cd",
     "revealed_at_block": 7540727,
     "tag": "0969db8-mesh-4",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hngv24igs:0969db8-mesh-4"
   },
   "5FeVpzoXk4zJyX32PfzyTy2eg1aGN6esg9T9UHK4w49Ta7LJ": {
     "repo": "jyotinayarman/crustacean-island",
