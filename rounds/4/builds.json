@@ -4,7 +4,7 @@
     "commit": "9648aad60a025f29e596bc39d226340443d48ce5",
     "revealed_at_block": 7520131,
     "tag": "9648aad-mesh-4",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Hp2QFzczuFSVey56cwrgs2AFPbHRLpnqNG7apF5pJRJCy8b": {
@@ -68,7 +68,7 @@
     "commit": "176320909b4af938177da0e81826b6d504df43af",
     "revealed_at_block": 7526751,
     "tag": "1763209-mesh-4",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Gv4MJXCUkR9SkmL42nmDdxNZGPG8i8fdPbK5Su8ForEbxbg": {
@@ -92,7 +92,7 @@
     "commit": "aa10f6f21a33467c6a31d25d7569ad4c8fd49f62",
     "revealed_at_block": 7526798,
     "tag": "aa10f6f-mesh-4",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5E7BUrU7gbpKTBka78kDdca3NkoZfLVR9jfY8dzd16TzTHAF": {
@@ -156,7 +156,7 @@
     "commit": "6b03fbce1710cc0552ad8509daa9a9fcc90ecc18",
     "revealed_at_block": 7535806,
     "tag": "6b03fbc-mesh-4",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5FqZqKgJKbXQ1D73WbMBhiicwoEYUZaWSFX9TZo9C8vgeUnx": {
@@ -180,7 +180,7 @@
     "commit": "e4c54f2d66b7d25312c97f514ff9755981b1fb8f",
     "revealed_at_block": 7535807,
     "tag": "e4c54f2-mesh-4",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5EjwzQdAutgZe1xVw5w2hGnwww73htfyRB5aiSs2RFzhnSYa": {
@@ -188,7 +188,7 @@
     "commit": "0294ebc31aa0d640358bc68ad583ff74ce298c95",
     "revealed_at_block": 7535807,
     "tag": "0294ebc-mesh-4",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5EZpt79UEt8QRxbHDFaiup4pg9f1yYUWpJwYuFt3NfF7TzJF": {
@@ -196,7 +196,7 @@
     "commit": "b32abab521be82885c1b31f9766cf8b7c8b631d2",
     "revealed_at_block": 7535936,
     "tag": "b32abab-mesh-4",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FePECsVyZnnuoRmpZMsR99k88ysUsWcMaBfhjjNnYT7WM1h": {
@@ -204,7 +204,7 @@
     "commit": "78b98546c615dd0add24018631eddd2b3ac36885",
     "revealed_at_block": 7535936,
     "tag": "78b9854-mesh-4",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DAReTiraW6yP6g4S68QiccGpJdUpLnNB1nFXBLz3nWsuBDH": {
@@ -212,8 +212,8 @@
     "commit": "0969db8dbfd4cdb298b7bae39dcfd094ee9f07cd",
     "revealed_at_block": 7540408,
     "tag": "0969db8-mesh-4",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5daretiraw:0969db8-mesh-4"
   },
   "5GCKsefFMQzbeLtX7iqDPpnybzYUyDquANSinWYo666LLGgf": {
     "repo": "jyotinayarman/crustacean-island",
@@ -260,7 +260,7 @@
     "commit": "0969db8dbfd4cdb298b7bae39dcfd094ee9f07cd",
     "revealed_at_block": 7540791,
     "tag": "0969db8-mesh-4",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5fncv78yvf:0969db8-mesh-4"
   }
 }
