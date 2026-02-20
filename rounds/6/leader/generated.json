@@ -7,6 +7,14 @@
     "attempts": 1,
     "distance": 0.0
   },
+  "920f3fec77bdeca54976270ac7078b72b09fe4a54877f641843e9a89bf77a063": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
   "f77bd9b791ad02d3c4c0d8862ee43454f14c11c4b402d5dc1956a76dbc84c2b9": {
     "glb": null,
     "png": null,
@@ -44,6 +52,46 @@
     "png": null,
     "generation_time": 0.0,
     "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "1ddfc1ca20ad6dd4db8ea62250ce7a541b3aa9887df65b4ea7cd9447b7895178": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "c0030d16-5b20-4de6-a45a-26ac4e22f061": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "7014827d-2f1a-4eed-9133-96574c3d1a26": {
+    "glb": "https://subnet404.xyz/rounds/6/leader/generated/7014827d-2f1a-4eed-9133-96574c3d1a26.glb",
+    "png": "https://subnet404.xyz/rounds/6/leader/generated/7014827d-2f1a-4eed-9133-96574c3d1a26.png",
+    "generation_time": 253.17178310197778,
+    "size": 36049496,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "754135c7840119417895aba800e4d9a063b93727e62e71dc4ada3fd9d9c1302e": {
+    "glb": "https://subnet404.xyz/rounds/6/leader/generated/754135c7840119417895aba800e4d9a063b93727e62e71dc4ada3fd9d9c1302e.glb",
+    "png": "https://subnet404.xyz/rounds/6/leader/generated/754135c7840119417895aba800e4d9a063b93727e62e71dc4ada3fd9d9c1302e.png",
+    "generation_time": 98.41990296402946,
+    "size": 36609556,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "1fdd29780597024e5cc0c3041852b957fb83b62a4b2b05b28a327caad8a99556": {
+    "glb": "https://subnet404.xyz/rounds/6/leader/generated/1fdd29780597024e5cc0c3041852b957fb83b62a4b2b05b28a327caad8a99556.glb",
+    "png": "https://subnet404.xyz/rounds/6/leader/generated/1fdd29780597024e5cc0c3041852b957fb83b62a4b2b05b28a327caad8a99556.png",
+    "generation_time": 70.5295034769224,
+    "size": 34355560,
     "attempts": 1,
     "distance": 0.0
   }
