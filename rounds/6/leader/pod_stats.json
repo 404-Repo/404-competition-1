@@ -1,0 +1,17 @@
+{
+  "miner-06-leader-0": {
+    "pod_id": "miner-06-leader-0",
+    "processed": 33,
+    "successful": 25,
+    "hard_failed": 5,
+    "hard_overtime": 3,
+    "time_min": 41.42136824398767,
+    "time_max": 168.63522237096913,
+    "time_avg": 84.42776694496085,
+    "time_median": 74.44110533496132,
+    "marked_bad": true,
+    "retry_cumulative_delta": 2.333993815933354,
+    "retry_delta_count": 1,
+    "termination_reason": "5 failures + 3 overtimes >= 8"
+  }
+}
