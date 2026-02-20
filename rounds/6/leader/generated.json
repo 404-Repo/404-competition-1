@@ -1,4 +1,20 @@
 {
+  "716673aa3b1c04736790fe66ecf54927546f9679207063c25b7316b534b9c5d3": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "f77bd9b791ad02d3c4c0d8862ee43454f14c11c4b402d5dc1956a76dbc84c2b9": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
   "4a9c421cc9475c9a71a6c078fbdc6b20431967c9554e2db985cb5bb816135340": {
     "glb": "https://subnet404.xyz/rounds/6/leader/generated/4a9c421cc9475c9a71a6c078fbdc6b20431967c9554e2db985cb5bb816135340.glb",
     "png": "https://subnet404.xyz/rounds/6/leader/generated/4a9c421cc9475c9a71a6c078fbdc6b20431967c9554e2db985cb5bb816135340.png",
@@ -12,6 +28,22 @@
     "png": "https://subnet404.xyz/rounds/6/leader/generated/9dcbcf12a18aade01a40cd756cac974900dc6673f3b45563597553c31047299a.png",
     "generation_time": 95.05702067899983,
     "size": 37646252,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "dc8f57a9c81da5dd02cdfd6fa335888d1ecdda8ef9df50a4c2a40d2c94df4299": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 1,
+    "distance": 0.0
+  },
+  "851327c491e7a20949001697ee0032d953735c120e3ece5ac583b293de357483": {
+    "glb": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
     "attempts": 1,
     "distance": 0.0
   }
