@@ -1,8 +1,8 @@
 {
   "left": "5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP",
   "right": "5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196",
-  "score": 0,
-  "margin": 0.0,
+  "score": 1,
+  "margin": 0.0078125,
   "duels": [
     {
       "name": "03802c046b4670173989fadcda62f97dce3ba4748c136ad594ddb8f74d836d7e",
@@ -22,7 +22,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/06311d8f4e4125860de24758b339c99b605aadba0b7a776dfff00d1a27491886.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/06311d8f4e4125860de24758b339c99b605aadba0b7a776dfff00d1a27491886.png",
       "winner": "draw",
-      "issues": "Both models have significant issues with shape accuracy, missing fine details, and altered proportions compared to the reference image. The peas and pod shapes are distorted, and the overall style deviates from the photorealistic quality of the prompt."
+      "issues": "Both models have significant issues with shape accuracy, missing fine details, and incorrect proportions compared to the reference image. The pods appear distorted, and the peas have incorrect positioning and appearance. The overall style deviates from the realistic look of the reference."
     },
     {
       "name": "06a9c08698c97f78b8359eda36d3ac90f14afac349b91df44011a70ee52233d8",
@@ -62,7 +62,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/0fa427a2025e8c73f2198cc7febd56b16806d90ef499802a680b48efe02bd064.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/0fa427a2025e8c73f2198cc7febd56b16806d90ef499802a680b48efe02bd064.png",
       "winner": "draw",
-      "issues": "Both models have significant issues with text clarity, clock face details, and overall texture matching the prompt. The clock numerals are distorted, and the surface texture doesn't match the prompt's detailed, layered appearance."
+      "issues": "Internal error"
     },
     {
       "name": "139bf54f125069d07ac8a39c528e892d52fc17f5db306444768799537344b206",
@@ -71,7 +71,7 @@
       "left_png": "https://subnet404.xyz/rounds/6/5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP/submitted/139bf54f125069d07ac8a39c528e892d52fc17f5db306444768799537344b206.png",
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/139bf54f125069d07ac8a39c528e892d52fc17f5db306444768799537344b206.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/139bf54f125069d07ac8a39c528e892d52fc17f5db306444768799537344b206.png",
-      "winner": "left",
+      "winner": "draw",
       "issues": "First model has minor issues with texture details and lighting, second model has major issues with character appearance and texture quality"
     },
     {
@@ -132,7 +132,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/227b6a9b077d634a4e1b39f0f36d4d0d46c7a2f0540794d5b1b6cf6eb357868f.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/227b6a9b077d634a4e1b39f0f36d4d0d46c7a2f0540794d5b1b6cf6eb357868f.png",
       "winner": "right",
-      "issues": "First model has minor shape differences in handle and body proportions; second model matches perfectly"
+      "issues": "First model has minor shape differences in handle and overall form compared to prompt, second model matches perfectly"
     },
     {
       "name": "24cf8871838e66309a8128266071c12f60d2af69b1b928d3f1fe61fe3dba226d",
@@ -142,7 +142,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/24cf8871838e66309a8128266071c12f60d2af69b1b928d3f1fe61fe3dba226d.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/24cf8871838e66309a8128266071c12f60d2af69b1b928d3f1fe61fe3dba226d.png",
       "winner": "draw",
-      "issues": "Both models have significant issues with bowl color (should be silver, not dark gray), whisk shape (should have a more realistic design), and overall style (less photorealistic). Details like the bowl's reflection and the texture of the whipped cream are also not matching the prompt's photorealistic quality."
+      "issues": "First model has different bowl color, second has similar bowl color but first has more significant shape differences in the spatula head and bowl reflection. Both have issues with bowl color and spatula details compared to the prompt."
     },
     {
       "name": "28ebbea4617d92cfb93425c4d9829da79c7097b6f0fc3645f8c259eed1851099",
@@ -152,7 +152,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/28ebbea4617d92cfb93425c4d9829da79c7097b6f0fc3645f8c259eed1851099.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/28ebbea4617d92cfb93425c4d9829da79c7097b6f0fc3645f8c259eed1851099.png",
       "winner": "draw",
-      "issues": "Slight variations in lighting/shading and minor detail differences, but overall matches the lamp style and structure"
+      "issues": "Slight differences in lighting/shading and minor detail variations between models and prompt, but overall shape and structure match the image prompt"
     },
     {
       "name": "29421b6b59cc7fdcc79d985b734838d3e78a431de9da32dff7c1251a48078653",
@@ -172,7 +172,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/29df7ea156132f59f0376403ebc08677da651eb53c7a7849c5d593c86124893a.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/29df7ea156132f59f0376403ebc08677da651eb53c7a7849c5d593c86124893a.png",
       "winner": "draw",
-      "issues": "Both models have moderate issues with style and details. The first model has shape differences and missing small details, while the second model has wrong style and significant details missing compared to the original prompt."
+      "issues": "Both models have moderate issues with style and detail matching the prompt. The first model has shape differences and missing small details, while the second has wrong style elements and significant details missing. Both models lack the realistic texture and environmental integration of the original prompt."
     },
     {
       "name": "2b789b9d7926220c2b42a74ee972a169f740d49174cf9e4f3a5c65ccaedf0c9c",
@@ -182,7 +182,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/2b789b9d7926220c2b42a74ee972a169f740d49174cf9e4f3a5c65ccaedf0c9c.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/2b789b9d7926220c2b42a74ee972a169f740d49174cf9e4f3a5c65ccaedf0c9c.png",
       "winner": "draw",
-      "issues": "Slight shape differences in wheels and minor detail variations between models and prompt"
+      "issues": "Minor shape differences and slight detail variations between models and prompt"
     },
     {
       "name": "2f39777d-b391-46d2-a45e-43f25105b4f5",
@@ -192,7 +192,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/2f39777d-b391-46d2-a45e-43f25105b4f5.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/2f39777d-b391-46d2-a45e-43f25105b4f5.png",
       "winner": "draw",
-      "issues": "Both models have simplified shapes with less detailed textures than the prompt, appear to be lower-poly versions, and lack the realistic cast-iron texture and lighting of the original prompt. The style is too basic and doesn't match the detailed, realistic appearance of the original wok."
+      "issues": "Both models have simplified shapes with less detailed textures than the prompt, appear to be lower-poly versions, and lack the realistic cast-iron texture and lighting of the original prompt. The style is more cartoonish/flat rather than photorealistic."
     },
     {
       "name": "31d16a94b97162ae48b2245d90e7d994b2e6df1d3a8bd19bb888bc953f4f8053",
@@ -202,7 +202,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/31d16a94b97162ae48b2245d90e7d994b2e6df1d3a8bd19bb888bc953f4f8053.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/31d16a94b97162ae48b2245d90e7d994b2e6df1d3a8bd19bb888bc953f4f8053.png",
       "winner": "draw",
-      "issues": "Both models have minor shape differences and slight detail variations compared to the prompt, but overall structure and components match reasonably well"
+      "issues": "Internal error"
     },
     {
       "name": "3653fdaf477e59df08254c7a40c04e68e0a78951a0885a82fd82e0693a95cfc7",
@@ -212,7 +212,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/3653fdaf477e59df08254c7a40c04e68e0a78951a0885a82fd82e0693a95cfc7.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/3653fdaf477e59df08254c7a40c04e68e0a78951a0885a82fd82e0693a95cfc7.png",
       "winner": "draw",
-      "issues": "Both models have simplified, cartoon-like appearance with less realistic wood texture and less detailed metal bands compared to the prompt's realistic, aged barrel. Details like wood grain texture, weathering, and metal band details are less accurate."
+      "issues": "Both models have simplified textures and less realistic wood grain details compared to the prompt. The prompt shows a more aged, weathered barrel with visible wear and specific wood texture patterns, while the generated barrels have smoother textures and less detailed aging. Both models also lack the specific color variations and weathering details of the original prompt barrel."
     },
     {
       "name": "36b637164ed57a77778a4de76b68dec7d0b2a7cbcf6696372f0fe8cdd1e8ec09",
@@ -232,7 +232,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/36ca006f46c5c792b0d1394705142b39a113f72f4a83a585e4cb7252988a9d4f.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/36ca006f46c5c792b0d1394705142b39a113f72f4a83a585e4cb7252988a9d4f.png",
       "winner": "draw",
-      "issues": "Both models have significant issues with texture fidelity, the central fluffy object's shape is distorted, and the overall style doesn't match the prompt's soft, fuzzy appearance. The base texture also lacks the detailed, textured look of the original prompt."
+      "issues": "Both models have significant issues with texture fidelity, the central fluffy object's shape is distorted, and the overall style doesn't match the prompt's soft, fuzzy appearance. The base texture also differs from the prompt's detailed, textured look."
     },
     {
       "name": "3ada9bdb5e895c86f809a27253329996384b9c75ec2392b004d721a87103acd3",
@@ -302,7 +302,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/44734df1-709b-445d-8b1c-ed4621608b2c.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/44734df1-709b-445d-8b1c-ed4621608b2c.png",
       "winner": "draw",
-      "issues": "Both models have some shape differences from the prompt, with moderate issues in style and detail matching. The stone texture and gate structure are somewhat similar but not perfect."
+      "issues": "First model has some shape differences and missing atmospheric details; second model has major structural issues and doesn't match the original's mood/atmosphere"
     },
     {
       "name": "4761cef27013d2b03a7e45ab78dc75476f604426d08a89e6a1c4b438a1dd117d",
@@ -322,7 +322,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/47d3801de5b12d8d877c9af82d7ceb001b895f2a9fa8c0d3f5548e527ef2ad50.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/47d3801de5b12d8d877c9af82d7ceb001b895f2a9fa8c0d3f5548e527ef2ad50.png",
       "winner": "draw",
-      "issues": "Both models have minor issues with texture details and the wooden plate base, which is not visible in the original prompt. The color tones are slightly off, and some small details like the exact arrangement of chickpeas and the texture of the hummus-like center need improvement."
+      "issues": "Both models have minor issues with texture details and the wooden plate base. The color tones are slightly off, and some small details like the exact arrangement of chickpeas and the texture of the hummus-like center are not perfectly matched to the original image."
     },
     {
       "name": "493233a803e229bbe0dfa37ae84685f98b158ca7e9c1a0387f4c3a97f296a09b",
@@ -352,7 +352,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/4a9c421cc9475c9a71a6c078fbdc6b20431967c9554e2db985cb5bb816135340.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/4a9c421cc9475c9a71a6c078fbdc6b20431967c9554e2db985cb5bb816135340.png",
       "winner": "draw",
-      "issues": "First model has minor shape differences and some detail variations; second model has more significant style and detail issues, with less definition in gold elements and overall quality"
+      "issues": "First model has minor shape differences and missing small decorative details compared to prompt. Second model has moderate issues with style and significant detail differences, especially in the gold ornamentation and overall finish."
     },
     {
       "name": "4affe7f85ca63476a8e9f34ecb2f563a99ee91b8c11df699495d2c8578408eb3",
@@ -482,7 +482,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/5a2d3565c99a63f238779b98a5776032681eed17dd4ebbc259c1eb748e777b29.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/5a2d3565c99a63f238779b98a5776032681eed17dd4ebbc259c1eb748e777b29.png",
       "winner": "draw",
-      "issues": "Both models have moderate issues with style and detail matching the original prompt. The first model has more noticeable shape differences and the second has some texture/structure inconsistencies. Both lack the precise geometric alignment and lighting quality of the original prompt."
+      "issues": "Internal error"
     },
     {
       "name": "5abe33895d1e826fd1114257b51674cd80778491812e027c8f6014c40788f892",
@@ -502,7 +502,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/5e00c76ef19f931f1c131e9521fccde99cce443bfd671818030247318a64fb92.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/5e00c76ef19f931f1c131e9521fccde99cce443bfd671818030247318a64fb92.png",
       "winner": "draw",
-      "issues": "Both models have minor shape differences and slight detail variations compared to the prompt, but overall match the dinosaur concept and general appearance."
+      "issues": "Both models have minor shape differences and slight detail variations compared to the prompt, but overall match the dinosaur concept and general appearance"
     },
     {
       "name": "62105fbf-7eab-4bae-ae96-b599a9b9b64f",
@@ -542,7 +542,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/64558f46a4afc131b9e0c8ae54c78bd78f019775d53f7927a3af92eb9629b58d.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/64558f46a4afc131b9e0c8ae54c78bd78f019775d53f7927a3af92eb9629b58d.png",
       "winner": "draw",
-      "issues": "Minor issues with texture details and some small decorative elements, but overall style and structure match the prompt"
+      "issues": "Internal error"
     },
     {
       "name": "65150215d5c404e542c34ca6633576af3e2b6ff72c1239997cfa782fb54bfe55",
@@ -552,7 +552,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/65150215d5c404e542c34ca6633576af3e2b6ff72c1239997cfa782fb54bfe55.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/65150215d5c404e542c34ca6633576af3e2b6ff72c1239997cfa782fb54bfe55.png",
       "winner": "draw",
-      "issues": "Both models have minor shape differences and slight detail variations compared to the prompt, with some grapes appearing less rounded and dew drops not matching the prompt's clarity and positioning exactly."
+      "issues": "Internal error"
     },
     {
       "name": "6fd6e315ea0a5b668efb01829643bd2531e5051749e8841a9fb3c1ca255d1d4c",
@@ -562,7 +562,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/6fd6e315ea0a5b668efb01829643bd2531e5051749e8841a9fb3c1ca255d1d4c.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/6fd6e315ea0a5b668efb01829643bd2531e5051749e8841a9fb3c1ca255d1d4c.png",
       "winner": "draw",
-      "issues": "Minor shape differences and slight detail variations between models and prompt, but overall style and elements match"
+      "issues": "Internal error"
     },
     {
       "name": "6fea3f1b-0a8f-4b20-81f3-ab09a23b66ac",
@@ -582,7 +582,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/7014827d-2f1a-4eed-9133-96574c3d1a26.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/7014827d-2f1a-4eed-9133-96574c3d1a26.png",
       "winner": "draw",
-      "issues": "Both models have minor issues with detail accuracy and texture fidelity compared to the original prompt. The first model has slightly different color distribution and texture details, while the second model has some variations in the miniature landscape and color consistency."
+      "issues": "First model has minor shape differences and missing small details compared to prompt. Second model has moderate issues with style and significant details missing. Both models lack the realistic texture and background elements of the original prompt."
     },
     {
       "name": "7112cd89c4118246fbcc44dea7f384e6d0996f0bcca8741bdce80929727f2cea",
@@ -662,7 +662,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/790daa0ae739c72e7d3fe4b3e1845a8ef352e5d3f474ea810ebdf347daad8bf6.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/790daa0ae739c72e7d3fe4b3e1845a8ef352e5d3f474ea810ebdf347daad8bf6.png",
       "winner": "draw",
-      "issues": "Slight shape differences and minor detail variations between models and prompt"
+      "issues": "Internal error"
     },
     {
       "name": "7be54d93634b6dd30ce0f79f9ab73b7c897792694d82ef6947b4e738ab77c02f",
@@ -672,7 +672,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/7be54d93634b6dd30ce0f79f9ab73b7c897792694d82ef6947b4e738ab77c02f.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/7be54d93634b6dd30ce0f79f9ab73b7c897792694d82ef6947b4e738ab77c02f.png",
       "winner": "draw",
-      "issues": "Both models have minor issues with the gemstone's color and clarity, and the gold band has slightly different shading. The overall structure matches the prompt but has minor detail differences."
+      "issues": "Both models have minor issues with the gemstone's color and clarity compared to the prompt, and the gold band has slightly different shading. The overall structure matches but lacks the prompt's vibrant blue gemstone and polished gold finish."
     },
     {
       "name": "7e7573e3f9f81d1cb35536914d8b28da9dbeab4aa2b49708ebdbc1870165869d",
@@ -732,7 +732,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/91788ac08e1023149d1c3a59bf0837424f13efb50af79b5905dfd94c857e5bb5.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/91788ac08e1023149d1c3a59bf0837424f13efb50af79b5905dfd94c857e5bb5.png",
       "winner": "draw",
-      "issues": "Both models have moderate issues with the image prompt. The first model has better lighting and detail matching the original image, while the second model has some differences in the glass and internal light effects. Both lack the dramatic lighting and atmospheric effect of the original prompt."
+      "issues": "Both models have moderate issues with the image prompt. The first model has better lighting and detail matching the original image, while the second model has some differences in the glass and internal light effects. Both lack the warm glow and detailed background ambiance of the original prompt."
     },
     {
       "name": "920f3fec77bdeca54976270ac7078b72b09fe4a54877f641843e9a89bf77a063",
@@ -782,7 +782,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/95e1d05a4365cfc77a012517f8b6e81a297abd33ab5e4acbf9411082fc273ccd.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/95e1d05a4365cfc77a012517f8b6e81a297abd33ab5e4acbf9411082fc273ccd.png",
       "winner": "draw",
-      "issues": "Both models have minor shape differences and slightly less detailed textures compared to the prompt image. The overall style matches but lacks the same level of detail and lighting quality as the reference image."
+      "issues": "Both models have minor shape differences and slightly less detailed textures compared to the prompt image. The overall style matches but has minor issues with button placement and fabric texture detail."
     },
     {
       "name": "96207250-4a72-4084-9ce0-fdcf2c0bc7f3",
@@ -812,7 +812,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/9882302a619396db6325bc5a62d943bb0b927a4e763d82203db44177658fd8eb.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/9882302a619396db6325bc5a62d943bb0b927a4e763d82203db44177658fd8eb.png",
       "winner": "draw",
-      "issues": "Both models have minor shape differences and some detail variations compared to the prompt, particularly in tentacle texture and dome shape details"
+      "issues": "First model has minor shape differences and detail variations; second model has more significant style and detail issues compared to the prompt"
     },
     {
       "name": "989a13d60ca7a5c6291bb062b58a98592ddaf61c7bb79dc1878a2daacc8f6262",
@@ -832,7 +832,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/99322c66552129f9acc9d0b1d51e1488a8a21b2ad4a8b6aa54f72a0b811ddd59.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/99322c66552129f9acc9d0b1d51e1488a8a21b2ad4a8b6aa54f72a0b811ddd59.png",
       "winner": "draw",
-      "issues": "Both models have moderate issues with the butterfly's wing details and overall realism compared to the prompt image. The wings appear less detailed and the overall rendering style is less photorealistic than the prompt."
+      "issues": "Both models have moderate issues with the butterfly's wing details and overall realism compared to the prompt. The wings appear less detailed and the overall rendering style is less photorealistic than the prompt image."
     },
     {
       "name": "9a10db1aa386883af1264b411859a9efea7c8a60c5cad01b2f7e61eb80fb7ffd",
@@ -872,7 +872,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/9dcbcf12a18aade01a40cd756cac974900dc6673f3b45563597553c31047299a.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/9dcbcf12a18aade01a40cd756cac974900dc6673f3b45563597553c31047299a.png",
       "winner": "draw",
-      "issues": "Both models have minor shape differences and slight detail variations compared to the prompt, but overall match the general concept of the mechanical eel-like creature with wooden segments, metal head, and chains."
+      "issues": "First model has minor shape differences and some detail variations; second model has more significant style and detail issues"
     },
     {
       "name": "9e90b2ceba17e0df5bac98e8211e6fc6da511658f7f9c0ac4c6c965bb9c2dc57",
@@ -892,7 +892,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/a25e2ad141dd6204d29a21d0b8a4548683f445a5a3e0c29d9cb05a657424eda4.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/a25e2ad141dd6204d29a21d0b8a4548683f445a5a3e0c29d9cb05a657424eda4.png",
       "winner": "draw",
-      "issues": "First model has minor shape differences and missing environmental context; second model has more significant style and detail issues, with altered window shapes and lighting"
+      "issues": "First model has minor shape differences and missing environmental context; second model has more significant style and detail issues, with altered window shapes and interior lighting."
     },
     {
       "name": "a36858cf1c19a86661382aaa6c3c46bc1c01de00ea188fc51d3e71fde805bbce",
@@ -922,7 +922,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/a632ba591a3e738aa61aa624379b2780d8fdc3e8261cbd65f47a2292f5d58401.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/a632ba591a3e738aa61aa624379b2780d8fdc3e8261cbd65f47a2292f5d58401.png",
       "winner": "draw",
-      "issues": "Both models have minor shape differences and slightly less detailed textures compared to the prompt image. Some of the intricate details and metallic sheen appear less precise."
+      "issues": "First model has better detail matching the original crown's texture and structure, second model has more simplified design with less intricate details and slightly different proportions"
     },
     {
       "name": "a654b7d291fe9ab9b49fa3644b3df6f60dea34ea77f7304db39b7bbbca9becfd",
@@ -962,7 +962,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/b39d70a4503c2de0b72857889f80a1d5be7d7dbc3c8f1a4e9cae05509b83f648.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/b39d70a4503c2de0b72857889f80a1d5be7d7dbc3c8f1a4e9cae05509b83f648.png",
       "winner": "draw",
-      "issues": "Both models have moderate issues with detail accuracy. The star shapes and arrangement differ from the prompt, and some texture details are not matching the reference image's leather appearance. The overall style is close but lacks the specific star details and leather texture quality of the prompt."
+      "issues": "Both models have moderate issues with detail accuracy. The star shapes and arrangement differ from the prompt, and some texture details are not matching the reference image's leather quality and studded patterns."
     },
     {
       "name": "b45b51b71538a890462f62d485d280aa030b39232f98e227c287e429a0bfde49",
@@ -982,7 +982,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/b5b087ce56adbf410570db50f323f519880a2040003bb34a5acf4627cc71286a.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/b5b087ce56adbf410570db50f323f519880a2040003bb34a5acf4627cc71286a.png",
       "winner": "draw",
-      "issues": "First model has minor shape differences and missing small details compared to prompt. Second model has moderate issues with style and significant details missing. Both models generally match the general form but have variations in details and style."
+      "issues": "Internal error"
     },
     {
       "name": "b7814e86334ef3736321a78534e959269376906131a0a17b3b08f668f65f65ae",
@@ -1022,7 +1022,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/c0030d16-5b20-4de6-a45a-26ac4e22f061.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/c0030d16-5b20-4de6-a45a-26ac4e22f061.png",
       "winner": "draw",
-      "issues": "Both models have similar shape but differ in color tone and some details. The first model has more blue tones with pink neon, while the second has more purple tones with pink neon. Both have minor shape differences and some details that don't match the prompt as closely as possible."
+      "issues": "Both models have similar overall shape but differ in specific details like neon lighting patterns, surface texture, and some structural elements. They maintain the futuristic vehicle concept but have noticeable variations in design execution."
     },
     {
       "name": "c108ec6241d2b0f9c6082192ca7ec22253d96a47c843a3b51d4d961ccbe24b3a",
@@ -1042,7 +1042,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/c390204a4127534894c6dfb1e9dc597b6377800c4e6e3a044a0dbf11af8a28f1.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/c390204a4127534894c6dfb1e9dc597b6377800c4e6e3a044a0dbf11af8a28f1.png",
       "winner": "draw",
-      "issues": "Both models have moderate issues with style and details. The teapots have different shapes, missing some of the original teapot's polished metallic details and smooth glossy finish. The overall style deviates from the prompt's elegant, polished appearance."
+      "issues": "Both models have moderate issues with style and details. The teapots have different shapes, missing some of the original teapot's polished metallic details and smooth glossy finish. The saucers also don't match the original's clean, polished appearance."
     },
     {
       "name": "c88b79c754122200216c08752be98601572309a7ec24bdb2918a945ee863cbf1",
@@ -1082,7 +1082,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/cef6ef16a114515b55b0c1ce0683236d31bf3235294859972e4e6b92d38013d3.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/cef6ef16a114515b55b0c1ce0683236d31bf3235294859972e4e6b92d38013d3.png",
       "winner": "draw",
-      "issues": "Minor shape and detail differences from the original prompt, some text variations, and slightly different color shading"
+      "issues": "Internal error"
     },
     {
       "name": "cf62de7ffaf7e5a51030f84c1f1dbcee1b361e323f13b4c3ef7f6f53cbcb7c96",
@@ -1112,7 +1112,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/d476d0da3718682348bd6a93d69a2308d09dcefdc8a532f0b1e390926ae62321.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/d476d0da3718682348bd6a93d69a2308d09dcefdc8a532f0b1e390926ae62321.png",
       "winner": "draw",
-      "issues": "Text and symbols don't match prompt, box orientation and style have minor deviations"
+      "issues": "Text and symbols don't match prompt, box orientation and style differs"
     },
     {
       "name": "d7ae8b88590e26c7cc8d98f43438133a5e568b3e9aef6651b5268c46320cc295",
@@ -1132,7 +1132,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/d9c1822602ba45fee405782dc79899ffe31b3e6da09a37ec8e0bbb3acf6561cd.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/d9c1822602ba45fee405782dc79899ffe31b3e6da09a37ec8e0bbb3acf6561cd.png",
       "winner": "draw",
-      "issues": "Both models have moderate issues with the sunflower's structure and detail matching the prompt. The petals appear less defined and the center's gem-like details are not as vibrant or precise as the original prompt. The overall style has some deviation from the prompt's detailed, jewel-encrusted appearance."
+      "issues": "Both models have moderate issues with the sunflower's structure and detail matching the prompt. The petals appear less defined and the center's gem-like details are less vibrant and precise compared to the prompt. The overall style has some deviation from the prompt's detailed, jewel-encrusted appearance."
     },
     {
       "name": "dbe00a48f2a35ac60bdc857372c16d6c6c3dcbc73a8918324f054e20ab498296",
@@ -1162,7 +1162,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/dda07d91516b57d5f618f54042daa18a9129ba6a646fbb3f4c88c0e42fdf5fd7.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/dda07d91516b57d5f618f54042daa18a9129ba6a646fbb3f4c88c0e42fdf5fd7.png",
       "winner": "draw",
-      "issues": "Both models have minor issues with the egg's texture and the egg cup's details, but overall match the prompt. The background is plain white instead of the original's gradient blue-gray, and there are slight differences in the egg's shape and the egg cup's proportions."
+      "issues": "Both models have minor issues with the egg's texture and the egg cup's details, but overall match the prompt's basic composition. The whisk/fork attachment is generally correct but has slight positioning differences."
     },
     {
       "name": "e16f1afb886cf791c0370afd4154965e5d3d57ecb50665c2fe18906a8c619c83",
@@ -1232,7 +1232,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/edcf9853-4e8d-4fc3-99b8-155da27997f4.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/edcf9853-4e8d-4fc3-99b8-155da27997f4.png",
       "winner": "draw",
-      "issues": "Both models have similar shape but differ in detail quality and lighting. First model has better texture definition, second has slightly different tail shape and less detailed scales. Both match the general mermaid tail concept but have minor deviations from the prompt's specific visual style."
+      "issues": "Both models have similar shape but differ in detail quality and lighting. First model has better definition of scales and tail structure, second has slightly different shading and less defined details. Both match the general mermaid tail concept but have minor deviations from the prompt's visual quality."
     },
     {
       "name": "ee2f680446674b54a0d77e8159522df63773ddda044dc2b990441cf382ab7426",
@@ -1242,7 +1242,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/ee2f680446674b54a0d77e8159522df63773ddda044dc2b990441cf382ab7426.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/ee2f680446674b54a0d77e8159522df63773ddda044dc2b990441cf382ab7426.png",
       "winner": "draw",
-      "issues": "First model has no flame/light effect, second has partial flame effect. Both lack background and surface details matching the prompt."
+      "issues": "First model has no flame/light effect, second has partial flame effect. Both lack background and lighting matching the prompt."
     },
     {
       "name": "f3d7d1e12613132d8643574a75e695572b102b30f52d30cb6ad76c9048f28a69",
@@ -1252,7 +1252,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/f3d7d1e12613132d8643574a75e695572b102b30f52d30cb6ad76c9048f28a69.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/f3d7d1e12613132d8643574a75e695572b102b30f52d30cb6ad76c9048f28a69.png",
       "winner": "draw",
-      "issues": "First model has minor shape differences and texture variations; second model has more significant issues with texture and surface details"
+      "issues": "First model has minor shape differences and texture variations; second model has more significant texture and detail issues, with less realistic appearance"
     },
     {
       "name": "f69403de9f9d3882d3db995d57f9b921e6707d25521294a275511dc361fd3d66",
@@ -1282,7 +1282,7 @@
       "right_glb": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/ff2dd444-667a-428a-b0b5-a7d70b3f13e5.glb",
       "right_png": "https://subnet404.xyz/rounds/6/5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196/submitted/ff2dd444-667a-428a-b0b5-a7d70b3f13e5.png",
       "winner": "draw",
-      "issues": "Both models have moderate issues with the visual quality and prompt adherence. The first model has noticeable differences in the clock face details, the second model has similar issues with the clock face and overall rendering quality. Both models lack the high level of detail and polished appearance of the reference image prompt."
+      "issues": "Internal error"
     }
   ]
 }
