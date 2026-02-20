@@ -1,0 +1,11 @@
+{
+  "5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196": {
+    "hotkey": "5EaA6wcoaf9yeYzFBmwmtxuXUsjcFdeVEHfVRFi4PY7Gd196",
+    "outcome": "rejected",
+    "checked_prompts": 0,
+    "failed_prompts": 0,
+    "failed_critical": 0,
+    "generation_time": null,
+    "reason": "Failed to build a docker image"
+  }
+}
