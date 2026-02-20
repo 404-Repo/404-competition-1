@@ -978,9 +978,9 @@
   "790daa0ae739c72e7d3fe4b3e1845a8ef352e5d3f474ea810ebdf347daad8bf6": {
     "glb": "https://subnet404.xyz/rounds/6/leader/generated/790daa0ae739c72e7d3fe4b3e1845a8ef352e5d3f474ea810ebdf347daad8bf6.glb",
     "png": "https://subnet404.xyz/rounds/6/leader/generated/790daa0ae739c72e7d3fe4b3e1845a8ef352e5d3f474ea810ebdf347daad8bf6.png",
-    "generation_time": 304.9298646940151,
-    "size": 53922372,
-    "attempts": 1,
+    "generation_time": 302.9476449369686,
+    "size": 53919248,
+    "attempts": 3,
     "distance": 0.0
   },
   "5a2d3565c99a63f238779b98a5776032681eed17dd4ebbc259c1eb748e777b29": {
