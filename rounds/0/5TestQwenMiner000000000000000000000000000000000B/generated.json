@@ -190,5 +190,197 @@
     "views": null,
     "failure_reason": "missing from batch results",
     "size": 0
+  },
+  "5cd44691b76b04524c7fe2864a7a7d3d32c9d2c5d97639942b23adae3e4efe42": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/5cd44691b76b04524c7fe2864a7a7d3d32c9d2c5d97639942b23adae3e4efe42.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/5cd44691b76b04524c7fe2864a7a7d3d32c9d2c5d97639942b23adae3e4efe42",
+    "failure_reason": null,
+    "size": 1833
+  },
+  "6a146e8ea55588c27eeb7e828c6dd4e555f1429961903ad9d2b7a1aaff07aa58": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/6a146e8ea55588c27eeb7e828c6dd4e555f1429961903ad9d2b7a1aaff07aa58.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/6a146e8ea55588c27eeb7e828c6dd4e555f1429961903ad9d2b7a1aaff07aa58",
+    "failure_reason": null,
+    "size": 1888
+  },
+  "5cc1d1d735c6cb3a93152b033b44b59515d020de2ae0c1ce5cac8b4d693fde63": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/5cc1d1d735c6cb3a93152b033b44b59515d020de2ae0c1ce5cac8b4d693fde63.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/5cc1d1d735c6cb3a93152b033b44b59515d020de2ae0c1ce5cac8b4d693fde63",
+    "failure_reason": null,
+    "size": 6105
+  },
+  "677aecca5495ee75dd7fdb3a5aef895360a7abeac9c1a79062649b2702d21e17": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/677aecca5495ee75dd7fdb3a5aef895360a7abeac9c1a79062649b2702d21e17.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/677aecca5495ee75dd7fdb3a5aef895360a7abeac9c1a79062649b2702d21e17",
+    "failure_reason": null,
+    "size": 2214
+  },
+  "6fda8de8892efa01071582592b9ef5bd512ab18af9e56822b3be30ba5254e599": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/6fda8de8892efa01071582592b9ef5bd512ab18af9e56822b3be30ba5254e599.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/6fda8de8892efa01071582592b9ef5bd512ab18af9e56822b3be30ba5254e599",
+    "failure_reason": null,
+    "size": 2521
+  },
+  "72309547e6eab977e47a8dd375413bcf3a26335ce60a67e1fa37f029a7d4fe00": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/72309547e6eab977e47a8dd375413bcf3a26335ce60a67e1fa37f029a7d4fe00.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/72309547e6eab977e47a8dd375413bcf3a26335ce60a67e1fa37f029a7d4fe00",
+    "failure_reason": null,
+    "size": 2260
+  },
+  "754135c7840119417895aba800e4d9a063b93727e62e71dc4ada3fd9d9c1302e": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/754135c7840119417895aba800e4d9a063b93727e62e71dc4ada3fd9d9c1302e.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/754135c7840119417895aba800e4d9a063b93727e62e71dc4ada3fd9d9c1302e",
+    "failure_reason": null,
+    "size": 4888
+  },
+  "7899423ba8c31b195d5d169d10d70436c981e8441211aff51e89b324875a3901": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7899423ba8c31b195d5d169d10d70436c981e8441211aff51e89b324875a3901.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7899423ba8c31b195d5d169d10d70436c981e8441211aff51e89b324875a3901",
+    "failure_reason": null,
+    "size": 2861
+  },
+  "7aaff3f71b71533f08f9fa8c99335a0cc7425a4bf33333dee70f2b81eac0cae9": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7aaff3f71b71533f08f9fa8c99335a0cc7425a4bf33333dee70f2b81eac0cae9.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7aaff3f71b71533f08f9fa8c99335a0cc7425a4bf33333dee70f2b81eac0cae9",
+    "failure_reason": null,
+    "size": 3519
+  },
+  "78db0d204fddbb072f0e2de2d7945a70af419e039f63906beac56e1f90d69339": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/78db0d204fddbb072f0e2de2d7945a70af419e039f63906beac56e1f90d69339.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/78db0d204fddbb072f0e2de2d7945a70af419e039f63906beac56e1f90d69339",
+    "failure_reason": null,
+    "size": 4385
+  },
+  "7bde4481abfe444bc13f6d582a1e3902521b50475462f0178721b2448ce90be5": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7bde4481abfe444bc13f6d582a1e3902521b50475462f0178721b2448ce90be5.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7bde4481abfe444bc13f6d582a1e3902521b50475462f0178721b2448ce90be5",
+    "failure_reason": null,
+    "size": 2025
+  },
+  "7b2809c8eb8f58bd34ebee55ad8efac3030964defba809e57c7cc3efb8dcae4d": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7b2809c8eb8f58bd34ebee55ad8efac3030964defba809e57c7cc3efb8dcae4d.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7b2809c8eb8f58bd34ebee55ad8efac3030964defba809e57c7cc3efb8dcae4d",
+    "failure_reason": null,
+    "size": 3579
+  },
+  "7bcfce30-cce6-4233-9237-fd5cb77ea68d": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7bcfce30-cce6-4233-9237-fd5cb77ea68d.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/7bcfce30-cce6-4233-9237-fd5cb77ea68d",
+    "failure_reason": null,
+    "size": 2876
+  },
+  "85dbb9fd46c91c503f144b4f3d352e4c8b430d7b8ea083046b1f34c9e777f6b2": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/85dbb9fd46c91c503f144b4f3d352e4c8b430d7b8ea083046b1f34c9e777f6b2.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/85dbb9fd46c91c503f144b4f3d352e4c8b430d7b8ea083046b1f34c9e777f6b2",
+    "failure_reason": null,
+    "size": 2592
+  },
+  "8866396e-a924-436f-9d97-c9c2cf667265": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/8866396e-a924-436f-9d97-c9c2cf667265.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/8866396e-a924-436f-9d97-c9c2cf667265",
+    "failure_reason": null,
+    "size": 7182
+  },
+  "87e58356a3ba1f400d50fb3efc7e805e0366a0717f1dcc3b2b758a149016db35": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/87e58356a3ba1f400d50fb3efc7e805e0366a0717f1dcc3b2b758a149016db35.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/87e58356a3ba1f400d50fb3efc7e805e0366a0717f1dcc3b2b758a149016db35",
+    "failure_reason": null,
+    "size": 3205
+  },
+  "8baf415617f97f887434d6545da4e8bd47df7fc86ac2212eaf59501399b3558c": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/8baf415617f97f887434d6545da4e8bd47df7fc86ac2212eaf59501399b3558c.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/8baf415617f97f887434d6545da4e8bd47df7fc86ac2212eaf59501399b3558c",
+    "failure_reason": null,
+    "size": 1657
+  },
+  "8b67af9481022ecb17aedd2c01bb7b93ec7fd1ae0ab6ca3fc4adb1b4266aff78": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/8b67af9481022ecb17aedd2c01bb7b93ec7fd1ae0ab6ca3fc4adb1b4266aff78.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/8b67af9481022ecb17aedd2c01bb7b93ec7fd1ae0ab6ca3fc4adb1b4266aff78",
+    "failure_reason": null,
+    "size": 2976
+  },
+  "907dcc71ea9538ef97779ef31ea8211c52b5cf5b107c8485415f26f6a4f1b632": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/907dcc71ea9538ef97779ef31ea8211c52b5cf5b107c8485415f26f6a4f1b632.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/907dcc71ea9538ef97779ef31ea8211c52b5cf5b107c8485415f26f6a4f1b632",
+    "failure_reason": null,
+    "size": 3836
+  },
+  "9250ed145f9d7ef1e12176634694d8d7a345ee8bcd04aff379e17702590124c5": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/9250ed145f9d7ef1e12176634694d8d7a345ee8bcd04aff379e17702590124c5.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/9250ed145f9d7ef1e12176634694d8d7a345ee8bcd04aff379e17702590124c5",
+    "failure_reason": null,
+    "size": 2659
+  },
+  "95d30da0df90c24af0d208637dc1842d3d12e06eb7e6f77fa2249d0304c16c1e": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/95d30da0df90c24af0d208637dc1842d3d12e06eb7e6f77fa2249d0304c16c1e.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/95d30da0df90c24af0d208637dc1842d3d12e06eb7e6f77fa2249d0304c16c1e",
+    "failure_reason": null,
+    "size": 1626
+  },
+  "97dee99406bfe82aac90c02622dc004b5fef0858c1e577b5d2455ed8f87d33e6": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/97dee99406bfe82aac90c02622dc004b5fef0858c1e577b5d2455ed8f87d33e6.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/97dee99406bfe82aac90c02622dc004b5fef0858c1e577b5d2455ed8f87d33e6",
+    "failure_reason": null,
+    "size": 2548
+  },
+  "9a2ee5fa4a2cf07bac315f9fb4e10b342858c3246873d8cc4f3f99cd1e0390bd": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/9a2ee5fa4a2cf07bac315f9fb4e10b342858c3246873d8cc4f3f99cd1e0390bd.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/9a2ee5fa4a2cf07bac315f9fb4e10b342858c3246873d8cc4f3f99cd1e0390bd",
+    "failure_reason": null,
+    "size": 2491
+  },
+  "989a13d60ca7a5c6291bb062b58a98592ddaf61c7bb79dc1878a2daacc8f6262": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/989a13d60ca7a5c6291bb062b58a98592ddaf61c7bb79dc1878a2daacc8f6262.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/989a13d60ca7a5c6291bb062b58a98592ddaf61c7bb79dc1878a2daacc8f6262",
+    "failure_reason": null,
+    "size": 3638
+  },
+  "9c470036a8590b8c2a90c5593d36ec97f11d7c2c699e1d5efa63a4b14fc20491": {
+    "js": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/9c470036a8590b8c2a90c5593d36ec97f11d7c2c699e1d5efa63a4b14fc20491.js",
+    "views": "https://subnet404.xyz/tests/0/5TestQwenMiner000000000000000000000000000000000B/9c470036a8590b8c2a90c5593d36ec97f11d7c2c699e1d5efa63a4b14fc20491",
+    "failure_reason": null,
+    "size": 2905
+  },
+  "97d3afd489d6715a6332463d5d8ed06da361e8d8a041897df844bfd4c6d3d728": {
+    "js": null,
+    "views": null,
+    "failure_reason": "missing from batch results",
+    "size": 0
+  },
+  "951253eb4d149e8b205537b504603f52ed9f870db31e147e2e68f7c54f5b3f18": {
+    "js": null,
+    "views": null,
+    "failure_reason": "missing from batch results",
+    "size": 0
+  },
+  "77a808cea139defc3f13d4d2526807cca1257ed4c13fe95d0c46419502d3b8a4": {
+    "js": null,
+    "views": null,
+    "failure_reason": "missing from batch results",
+    "size": 0
+  },
+  "7edf7f70-1679-489a-aeb3-418753e984ce": {
+    "js": null,
+    "views": null,
+    "failure_reason": "missing from batch results",
+    "size": 0
+  },
+  "96207250-4a72-4084-9ce0-fdcf2c0bc7f3": {
+    "js": null,
+    "views": null,
+    "failure_reason": "missing from batch results",
+    "size": 0
+  },
+  "7e907be6052ce86e093931a064b9079a077e883fc60efe3d01bbbcd01c28d11d": {
+    "js": null,
+    "views": null,
+    "failure_reason": "missing from batch results",
+    "size": 0
+  },
+  "7df6564e3f449f5ae9cfc89c36588731f540e67b5ec7d9671410d88e9978bb73": {
+    "js": null,
+    "views": null,
+    "failure_reason": "missing from batch results",
+    "size": 0
   }
 }

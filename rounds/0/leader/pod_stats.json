@@ -1,0 +1,13 @@
+{
+  "miner-00-leader-0": {
+    "pod_id": "miner-00-leader-0",
+    "provider": "targon",
+    "batch_times": [
+      935.8889484480023,
+      234.4704448133707
+    ],
+    "total_generation_time": 1170.359393261373,
+    "termination_reason": "unreachable",
+    "payload": null
+  }
+}
