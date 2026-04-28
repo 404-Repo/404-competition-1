@@ -9,5 +9,16 @@
     "total_generation_time": 479.5657149851322,
     "termination_reason": "submission_failed",
     "payload": null
+  },
+  "miner-00-5testqwenm-1": {
+    "pod_id": "miner-00-5testqwenm-1",
+    "provider": "runpod",
+    "batch_times": [
+      311.3378696553409,
+      52.99622491747141
+    ],
+    "total_generation_time": 364.3340945728123,
+    "termination_reason": "completed",
+    "payload": null
   }
 }

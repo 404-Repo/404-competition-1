@@ -1,0 +1,10 @@
+{
+  "5TestQwenMiner000000000000000000000000000000000B": {
+    "hotkey": "5TestQwenMiner000000000000000000000000000000000B",
+    "outcome": "rejected",
+    "checked_prompts": 100,
+    "failed_prompts": 28,
+    "generation_time": 843.8998095579445,
+    "reason": "Failed prompts (28) exceed tolerance (6)"
+  }
+}
