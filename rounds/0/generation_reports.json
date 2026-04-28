@@ -6,5 +6,13 @@
     "failed_prompts": 28,
     "generation_time": 843.8998095579445,
     "reason": "Failed prompts (28) exceed tolerance (6)"
+  },
+  "5TestMinimaxMiner000000000000000000000000000000A": {
+    "hotkey": "5TestMinimaxMiner000000000000000000000000000000A",
+    "outcome": "rejected",
+    "checked_prompts": 100,
+    "failed_prompts": 28,
+    "generation_time": 798.8475256189704,
+    "reason": "Failed prompts (28) exceed tolerance (6)"
   }
 }
