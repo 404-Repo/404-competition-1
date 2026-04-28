@@ -1,0 +1,15 @@
+{
+  "miner-00-5testminim-0": {
+    "pod_id": "miner-00-5testminim-0",
+    "provider": "targon",
+    "batch_times": [
+      288.04457391798496,
+      224.01905975863338,
+      245.17452248558402,
+      54.60831514373422
+    ],
+    "total_generation_time": 811.8464713059366,
+    "termination_reason": "completed",
+    "payload": null
+  }
+}
