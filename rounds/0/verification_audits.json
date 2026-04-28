@@ -5,5 +5,12 @@
     "score": 0,
     "checked_prompts": 0,
     "reason": "submitted score=0 ≥ 0 over 0 decided prompts"
+  },
+  "5TestMinimaxMiner000000000000000000000000000000A": {
+    "hotkey": "5TestMinimaxMiner000000000000000000000000000000A",
+    "outcome": "passed",
+    "score": 0,
+    "checked_prompts": 0,
+    "reason": "submitted score=0 ≥ 0 over 0 decided prompts"
   }
 }
