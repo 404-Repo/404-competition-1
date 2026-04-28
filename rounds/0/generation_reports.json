@@ -1,7 +1,7 @@
 {
   "5TestQwenMiner000000000000000000000000000000000B": {
     "hotkey": "5TestQwenMiner000000000000000000000000000000000B",
-    "outcome": "rejected",
+    "outcome": "completed",
     "checked_prompts": 100,
     "failed_prompts": 28,
     "generation_time": 843.8998095579445,
@@ -9,7 +9,7 @@
   },
   "5TestMinimaxMiner000000000000000000000000000000A": {
     "hotkey": "5TestMinimaxMiner000000000000000000000000000000A",
-    "outcome": "rejected",
+    "outcome": "completed",
     "checked_prompts": 100,
     "failed_prompts": 28,
     "generation_time": 798.8475256189704,
