@@ -8,5 +8,17 @@
     "total_generation_time": 287.2122843079269,
     "termination_reason": "submission_failed",
     "payload": null
+  },
+  "miner-00-5testminim-1": {
+    "pod_id": "miner-00-5testminim-1",
+    "provider": "runpod",
+    "batch_times": [
+      239.04227158799767,
+      229.6244874112308,
+      42.96848231181502
+    ],
+    "total_generation_time": 511.6352413110435,
+    "termination_reason": "completed",
+    "payload": null
   }
 }

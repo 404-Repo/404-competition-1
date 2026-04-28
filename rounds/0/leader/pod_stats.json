@@ -9,5 +9,16 @@
     "total_generation_time": 1170.359393261373,
     "termination_reason": "unreachable",
     "payload": null
+  },
+  "miner-00-leader-1": {
+    "pod_id": "miner-00-leader-1",
+    "provider": "runpod",
+    "batch_times": [
+      225.84379341453314,
+      236.61857210472226
+    ],
+    "total_generation_time": 462.4623655192554,
+    "termination_reason": "completed",
+    "payload": null
   }
 }
