@@ -77,12 +77,6 @@
     "failure_reason": null,
     "size": 6774
   },
-  "72309547e6eab977e47a8dd375413bcf3a26335ce60a67e1fa37f029a7d4fe00": {
-    "js": "https://subnet404.xyz/rounds/0/5TestMinimaxMiner000000000000000000000000000000A/submitted/72309547e6eab977e47a8dd375413bcf3a26335ce60a67e1fa37f029a7d4fe00.js",
-    "views": null,
-    "failure_reason": "render_failed",
-    "size": 9075
-  },
   "eee5f64d924e368ab0a27c777a37fb0e9beac2143ae7317e97b72b73979db3fa": {
     "js": "https://subnet404.xyz/rounds/0/5TestMinimaxMiner000000000000000000000000000000A/submitted/eee5f64d924e368ab0a27c777a37fb0e9beac2143ae7317e97b72b73979db3fa.js",
     "views": "https://subnet404.xyz/rounds/0/5TestMinimaxMiner000000000000000000000000000000A/submitted/eee5f64d924e368ab0a27c777a37fb0e9beac2143ae7317e97b72b73979db3fa",
