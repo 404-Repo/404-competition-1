@@ -1,16 +1,12 @@
-{
-  "5TestMinimaxMiner000000000000000000000000000000A": {
+[
+  {
     "hotkey": "5TestMinimaxMiner000000000000000000000000000000A",
-    "repo": "test-fake/minimax-miner",
-    "commit": "1111111111111111111111111111111111111111",
-    "outcome": "passed",
-    "reason": "Source verified, no issues found"
+    "verdict": "passed",
+    "reason": ""
   },
-  "5TestQwenMiner000000000000000000000000000000000B": {
+  {
     "hotkey": "5TestQwenMiner000000000000000000000000000000000B",
-    "repo": "test-fake/qwen-miner",
-    "commit": "2222222222222222222222222222222222222222",
-    "outcome": "passed",
-    "reason": "Source verified, no issues found"
+    "verdict": "passed",
+    "reason": ""
   }
-}
+]
