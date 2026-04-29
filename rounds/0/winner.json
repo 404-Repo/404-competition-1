@@ -1,6 +1,6 @@
 {
-  "winner_hotkey": "leader",
-  "repo": "no-repo/no-repo",
-  "commit": "28900bbb82c04f210eda8907713f57b9f6792992",
+  "winner_hotkey": "5TestQwenMiner000000000000000000000000000000000B",
+  "repo": "test-fake/qwen-miner",
+  "commit": "2222222222222222222222222222222222222222",
   "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/dendrite-test:0.0.1"
 }
